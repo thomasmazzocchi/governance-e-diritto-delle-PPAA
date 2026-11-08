@@ -18,7 +18,7 @@ L'accesso permette ai cittadini di conoscere i documenti dell'amministrazione: s
 - **Le esclusioni (art. 24).** Documenti coperti da segreto di Stato, procedimenti tributari, atti normativi e generali, documenti con informazioni psicoattitudinali di terzi nei procedimenti selettivi; altre esclusioni possono essere previste dai regolamenti.
 - **Accesso difensivo (art. 24, c. 7).** Va comunque garantito l'accesso ai documenti la cui conoscenza è necessaria per difendere i propri interessi giuridici; per i dati sensibili e giudiziari, nei limiti in cui è strettamente indispensabile.
 - **I controinteressati.** Chi dall'accesso vedrebbe compromessa la propria riservatezza va informato e può opporsi.
-- **Procedura e rimedi (art. 25).** Richiesta motivata; termine di 30 giorni, decorso il quale la richiesta si intende respinta. Contro il diniego: ricorso al TAR entro 30 giorni (art. 116 c.p.a.) oppure al difensore civico o alla Commissione per l'accesso.
+- **Procedura e rimedi (art. 25).** Richiesta motivata; termine di 30 giorni, decorso il quale la richiesta si intende respinta. Contro il diniego: ricorso al TAR entro 30 giorni (art. 116 c.p.a.) oppure, nello stesso termine, richiesta di riesame al difensore civico (per gli atti di comuni, province e regioni) o alla Commissione per l'accesso (per gli atti delle amministrazioni statali).
 - **Accesso nel procedimento (art. 10).** Chi partecipa al procedimento ha diritto di prendere visione degli atti: è il collegamento con il cap. 15.
 
 ## L'accesso civico (d.lgs. 33/2013)
@@ -29,7 +29,7 @@ L'accesso permette ai cittadini di conoscere i documenti dell'amministrazione: s
 - **Accesso civico semplice (art. 5, c. 1).** Chiunque può chiedere i documenti che l'amministrazione doveva pubblicare e non ha pubblicato.
 - **Accesso civico generalizzato (art. 5, c. 2).** Introdotto dal d.lgs. 97/2016 sul modello del FOIA statunitense: chiunque può chiedere dati e documenti ulteriori rispetto a quelli da pubblicare, senza motivazione.
 - **Limiti (art. 5-bis).** Va rifiutato se serve a evitare un pregiudizio concreto a interessi pubblici (sicurezza, difesa, relazioni internazionali, indagini) o privati (protezione dei dati personali, libertà e segretezza della corrispondenza, interessi economici e commerciali). Restano escluse le materie dell'art. 24 L. 241/1990.
-- **Procedura e rimedi.** Termine di 30 giorni; contro il diniego, richiesta di riesame al responsabile della prevenzione della corruzione e della trasparenza (RPCT), poi ricorso al TAR.
+- **Procedura e rimedi (art. 5, c. 6-7).** Provvedimento espresso e motivato entro 30 giorni; contro il diniego o il silenzio, richiesta di riesame al responsabile della prevenzione della corruzione e della trasparenza (RPCT), che decide entro 20 giorni; poi ricorso al TAR (art. 116 c.p.a.).
 - **Anche negli appalti.** Il Consiglio di Stato ha ammesso l'accesso civico generalizzato agli atti dell'esecuzione dei contratti pubblici (Ad. Plen. 10/2020).
 
 | | Accesso documentale | Accesso civico semplice | Accesso civico generalizzato |

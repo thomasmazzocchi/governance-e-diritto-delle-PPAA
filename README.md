@@ -45,4 +45,4 @@ Facoltativi: 7.5 amministrazione digitale (95-98), 6.7 amministrazioni ultrastat
 | 15 dic - 6 gen | Ripasso: schemi, quiz, ripasso a voce |
 
 ## Altro
-[Glossario](glossario.md) · [Link utili](risorse/link-utili.md) · [Giurisprudenza](giurisprudenza/) · [Modelli](templates/)
+[Verifica dei fatti, 8/11/2026](verifiche/parte-base-factcheck-2026-11-08.md) · [Glossario](glossario.md) · [Link utili](risorse/link-utili.md) · [Giurisprudenza](giurisprudenza/) · [Modelli](templates/)

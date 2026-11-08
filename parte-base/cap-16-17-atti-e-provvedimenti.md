@@ -49,10 +49,10 @@ I manuali distinguono i provvedimenti in base all'effetto che producono sulla sf
 
 Il provvedimento può essere valido ma non ancora efficace: la legge regola quando produce effetti e come si esegue.
 
-- **Atti limitativi della sfera giuridica (art. 21-bis).** Acquistano efficacia con la comunicazione al destinatario; se urgenti e non sanzionatori possono essere immediatamente efficaci.
+- **Atti limitativi della sfera giuridica (art. 21-bis).** Acquistano efficacia con la comunicazione al destinatario. Se non hanno carattere sanzionatorio possono contenere una motivata clausola di immediata efficacia; quelli cautelari e urgenti sono immediatamente efficaci.
 - **Esecutorietà (art. 21-ter).** Nei casi previsti dalla legge l'amministrazione può imporre coattivamente l'adempimento degli obblighi, previa diffida.
 - **Sospensione (art. 21-quater).** L'efficacia può essere sospesa, per gravi ragioni e per il tempo strettamente necessario, dall'organo che ha emanato l'atto o da altro previsto dalla legge.
-- **Revoca (art. 21-quinquies).** Per sopravvenuti motivi di interesse pubblico, mutamento della situazione di fatto o nuova valutazione dell'interesse pubblico, l'atto a efficacia durevole può essere revocato; se ci sono pregiudizi per gli interessati, spetta un **indennizzo**.
+- **Revoca (art. 21-quinquies).** L'atto a efficacia durevole può essere revocato per sopravvenuti motivi di interesse pubblico, per un mutamento della situazione di fatto non prevedibile al momento dell'adozione o per una nuova valutazione dell'interesse pubblico originario. Quest'ultima ipotesi **non vale** per autorizzazioni e provvedimenti che attribuiscono vantaggi economici. Se la revoca causa pregiudizi agli interessati, spetta un **indennizzo**.
 - **Recesso dai contratti (art. 21-sexies).** Ammesso solo nei casi previsti dalla legge o dal contratto.
 
 ## L'invalidità
@@ -72,22 +72,23 @@ Un provvedimento contrario alle norme è invalido. La legge distingue due forme 
 - **Violazione di legge.** Contrasto con una norma: mancata motivazione, violazione delle regole del procedimento, mancanza dei presupposti.
 - **Eccesso di potere.** Cattivo uso della discrezionalità. È il vizio più tipico, ricostruito dal giudice attraverso le "figure sintomatiche": sviamento di potere (fine diverso da quello previsto), travisamento dei fatti, difetto di istruttoria e di motivazione, illogicità, contraddittorietà, disparità di trattamento, ingiustizia manifesta.
 
-**I vizi non invalidanti (art. 21-octies, c. 2).** Non è annullabile il provvedimento adottato in violazione di norme sul procedimento o sulla forma se, per la sua natura vincolata, il contenuto non poteva essere diverso. Lo stesso vale per la mancata comunicazione di avvio del procedimento, se l'amministrazione dimostra in giudizio che il contenuto non sarebbe cambiato. La regola non si applica alla violazione del preavviso di rigetto (art. 10-bis).
+**I vizi non invalidanti (art. 21-octies, c. 2).** Non è annullabile il provvedimento adottato in violazione di norme sul procedimento o sulla forma se, per la sua natura vincolata, è palese che il contenuto non poteva essere diverso. Lo stesso vale per la mancata comunicazione di avvio del procedimento, se l'amministrazione dimostra in giudizio che il contenuto non sarebbe cambiato. Questa seconda regola (la prova in giudizio) non si applica al provvedimento adottato violando il preavviso di rigetto (art. 10-bis), come precisato nel 2020.
 
 ## L'autotutela
 
 L'amministrazione può tornare sulle proprie decisioni, eliminandole o correggendole, senza passare dal giudice.
 
-- **Annullamento d'ufficio (art. 21-nonies).** Il provvedimento illegittimo può essere annullato dall'amministrazione se sussistono ragioni di interesse pubblico, entro un termine ragionevole e tenendo conto degli interessi dei destinatari e dei controinteressati. Per autorizzazioni e vantaggi economici il termine massimo è di **12 mesi** (ridotto da 18 a 12 dal D.L. 77/2021).
-- **Il limite dei 12 mesi non vale** per i provvedimenti ottenuti con false rappresentazioni dei fatti o dichiarazioni false accertate con sentenza passata in giudicato (c. 2-bis).
+- **Annullamento d'ufficio (art. 21-nonies).** Il provvedimento illegittimo può essere annullato dall'amministrazione se sussistono ragioni di interesse pubblico, entro un termine ragionevole e tenendo conto degli interessi dei destinatari e dei controinteressati. Per autorizzazioni e vantaggi economici, compresi quelli formati per silenzio assenso, il termine massimo è oggi di **6 mesi** dall'adozione.
+- **Attenzione, il termine è cambiato più volte.** Era di 18 mesi (L. 124/2015), poi 12 (D.L. 77/2021), poi **6 mesi dalla L. 182/2025** (legge annuale di semplificazione, in vigore dal 18 dicembre 2025). Il libro (2023) riporta quindi 12 mesi: all'esame vale il testo vigente.
+- **Il limite dei 6 mesi non vale** per i provvedimenti ottenuti con false rappresentazioni dei fatti o dichiarazioni false, per effetto di condotte costituenti reato accertate con sentenza passata in giudicato (c. 2-bis).
 - **Convalida (c. 2).** L'atto annullabile può essere convalidato, se sussistono ragioni di interesse pubblico ed entro un termine ragionevole.
 
 | | Annullamento d'ufficio | Revoca |
 | --- | --- | --- |
 | Presupposto | Atto illegittimo | Atto legittimo ma non più opportuno |
-| Ragione | Illegittimità + interesse pubblico | Sopravvenienze o nuova valutazione dell'interesse pubblico |
+| Ragione | Illegittimità + interesse pubblico | Sopravvenienze o nuova valutazione dell'interesse pubblico (non per autorizzazioni e vantaggi economici) |
 | Effetti | Retroattivi (ex tunc) | Solo per il futuro (ex nunc) |
-| Limite temporale | Termine ragionevole, max 12 mesi per autorizzazioni e vantaggi economici | Nessuno fissato dalla legge |
+| Limite temporale | Termine ragionevole, max 6 mesi per autorizzazioni e vantaggi economici (L. 182/2025) | Nessuno fissato dalla legge |
 | Indennizzo | No | Sì, se ci sono pregiudizi |
 
 ## Domande di verifica
@@ -106,3 +107,4 @@ L'amministrazione può tornare sulle proprie decisioni, eliminandole o correggen
 - [D.lgs. 104/2010, codice del processo amministrativo (Normattiva)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104)
 - [D.P.R. 327/2001, testo unico espropriazioni (Normattiva)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-08;327)
 - [L. 689/1981, sanzioni amministrative (Normattiva)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689)
+- [Legge di semplificazione 2025: le modifiche alla L. 241/1990 (Appalti e Contratti)](https://www.appaltiecontratti.it/legge-di-semplificazione-2025-le-modifiche-alla-l-241-1990/)

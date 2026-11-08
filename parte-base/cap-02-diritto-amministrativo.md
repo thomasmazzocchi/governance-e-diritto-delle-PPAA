@@ -18,7 +18,7 @@ Il diritto amministrativo è "speciale" rispetto al diritto privato, ma si appli
 
 - **La regola generale (art. 1, c. 1-bis, L. 241/1990).** Introdotta dalla L. 15/2005: quando adotta atti di natura non autoritativa, l'amministrazione agisce secondo le norme di diritto privato, salvo che la legge disponga diversamente.
 - **Il criterio pratico.** Atto non autoritativo significa che l'amministrazione non sta esercitando un potere. Esempi: contratti, gestione del patrimonio, attività strumentali.
-- **La base civilistica.** Gli enti pubblici hanno capacità di diritto privato (art. 11 c.c.) e possono usarla per gestire il patrimonio o svolgere attività strumentali ai loro fini.
+- **La base civilistica.** L'art. 11 c.c. riconosce gli enti pubblici come persone giuridiche; da qui la dottrina ricava la loro capacità di diritto privato, che possono usare per gestire il patrimonio o svolgere attività strumentali ai loro fini.
 - **Anche col diritto privato il fine resta pubblico.** L'attività svolta con strumenti privatistici è comunque vincolata agli interessi pubblici previsti dalla legge e ai principi dell'art. 1, c. 1, L. 241/1990.
 - **Anche i privati possono essere soggetti alle regole pubbliche.** Il c. 1-ter dello stesso articolo: i privati che svolgono attività amministrative devono rispettare quei principi.
 - **Un caso di confine: gli accordi (art. 11 L. 241/1990).** Possono integrare o sostituire un provvedimento; la giurisprudenza ne conferma la natura pubblicistica.

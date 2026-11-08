@@ -43,13 +43,17 @@ Il danneggiato può agire anche contro il funzionario, ma solo per i casi più g
 - **Personale e non trasmissibile.** Ognuno risponde per la sua parte; agli eredi passa solo in caso di illecito arricchimento del dante causa e indebito arricchimento degli eredi.
 - **Insindacabilità.** Il giudice contabile non può sindacare il merito delle scelte discrezionali.
 - **Il potere riduttivo.** La Corte può porre a carico del responsabile solo una parte del danno.
-- **Lo "scudo erariale".** Dal 2020 (art. 21 D.L. 76/2020) la responsabilità per condotte attive è stata limitata ai casi di dolo, con proroghe successive. Verificare il regime attuale dopo la L. 1/2026.
+- **Lo "scudo erariale" (temporaneo, ora scaduto).** L'art. 21 D.L. 76/2020 ha limitato al dolo la responsabilità per le condotte attive (non per omissioni e inerzie), per i fatti commessi dal 17 luglio 2020 al **31 dicembre 2025** (ultima proroga: D.L. 68/2025). Per i fatti successivi vale la disciplina ordinaria, come riformata dalla L. 1/2026.
+- **La prova del dolo.** Richiede la dimostrazione della volontà dell'evento dannoso (art. 1, c. 1, L. 20/1994).
 
 **La riforma del 2026 (L. 7 gennaio 2026, n. 1)**
 
 - **Colpa grave tipizzata.** È limitata alla violazione manifesta delle norme, al travisamento dei fatti, all'affermazione o negazione di fatti che risultano o sono esclusi in modo incontrovertibile dagli atti del procedimento.
 - **Esclusioni.** Non c'è colpa grave se la condotta segue orientamenti giurisprudenziali prevalenti o pareri delle autorità competenti, o riguarda atti sottoposti a controllo preventivo di legittimità; lo stesso vale per gli atti conformi ai pareri della Corte dei conti.
-- **Tetto alla condanna.** Salvo dolo e illecito arricchimento, la Corte deve esercitare il potere riduttivo: la condanna non può superare il **30% del danno** accertato e comunque il **doppio della retribuzione lorda annua** (o del compenso per l'incarico). Vale anche per i giudizi in corso.
+- **Tetto alla condanna (c. 1-octies).** Salvo dolo e illecito arricchimento, la Corte deve esercitare il potere riduttivo: la condanna non può superare il **30% del danno** accertato e comunque il **doppio della retribuzione lorda** dell'anno di inizio della condotta (o dell'anno precedente o successivo), oppure il doppio del compenso per l'incarico. Secondo i commenti si applica anche ai giudizi in corso: da verificare sul testo della legge.
+- **Vantaggi e concorso dell'amministrazione (c. 1-bis).** Nel quantificare il danno si tiene conto dei vantaggi comunque ottenuti dall'amministrazione o dalla comunità e dell'eventuale concorso dell'amministrazione danneggiata.
+- **Organi politici (c. 1-ter).** La responsabilità non si estende ai politici che in buona fede hanno approvato atti di competenza degli uffici; la buona fede si presume, salvo dolo, se gli atti sono proposti, vistati o sottoscritti dai responsabili degli uffici senza pareri contrari.
+- **Prescrizione (c. 2).** Cinque anni dal fatto dannoso, indipendentemente da quando l'amministrazione o la Corte ne vengono a conoscenza; in caso di occultamento doloso, dalla scoperta.
 - **Assicurazione obbligatoria.** Chi gestisce risorse pubbliche deve stipulare una polizza per i danni causati con colpa grave.
 - **Sospensione.** Nei casi più gravi, sospensione dalla gestione di risorse pubbliche da 6 mesi a 3 anni.
 
@@ -79,6 +83,7 @@ Il danneggiato può agire anche contro il funzionario, ma solo per i casi più g
 
 - [Costituzione, art. 28 (Senato)](https://www.senato.it/istituzione/la-costituzione)
 - [L. 20/1994, responsabilità e controllo della Corte dei conti (Normattiva)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-14;20)
+- [D.L. 76/2020, art. 21, scudo erariale (Normattiva)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-07-16;76~art21)
 - [Responsabilità per danno erariale: cosa cambia con la L. 1/2026 (CMS)](https://cms.law/it/ita/publication/responsabilita-per-danno-erariale-cosa-cambia-con-la-l.-1-2026)
 - [Modifiche in materia di funzioni della Corte dei conti e responsabilità per danno erariale, dossier (Camera dei deputati)](https://temi.camera.it/leg19/provvedimento/modifiche-in-materia-di-funzioni-di-controllo-e-consultive-della-corte-dei-conti-e-di-responsabilit-per-danno-erariale.html)
 - [D.lgs. 165/2001, testo vigente (Normattiva)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165)
