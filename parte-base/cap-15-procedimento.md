@@ -1,87 +1,147 @@
 # Cap. 15 – Il procedimento amministrativo (Mattarella)
 
-Il testo del capitolo 15 di Mattarella (pp. 179-192) non è disponibile online e non ho l'indice dei suoi paragrafi: le sezioni seguono i temi della L. 241/1990 e vanno riallineate ai titoli del libro. Il contenuto viene dal testo vigente della legge e da materiali universitari, da confrontare con il libro. Le parti sull'accesso sono nello schema del par. 7.4.
+Il testo del capitolo 15 di Mattarella (pp. 179-192) non è disponibile online. I titoli dei paragrafi vengono dall'**indice della 1ª edizione (2018)**, che ha le stesse pagine della 3ª: la struttura dovrebbe essere la stessa, ma va controllata sul libro. Il contenuto viene dal testo vigente della L. 241/1990 (verificato su Normattiva) e da materiali universitari. Gli esempi nei riquadri "Nel mondo reale" servono a capire, non vengono dal libro. Le parti sull'accesso sono nello schema del par. 7.4.
 
-## Che cos'è il procedimento
+## 15.1 La procedimentalizzazione dell'attività amministrativa
 
-Il procedimento è la sequenza di atti attraverso cui l'amministrazione arriva a una decisione: serve a garantire che il potere sia esercitato in modo legittimo, informato e trasparente.
+L'amministrazione non decide in un solo momento: arriva alla decisione attraverso una sequenza ordinata di atti, il procedimento.
 
-- **Perché esiste.** Il provvedimento non nasce all'improvviso: l'amministrazione deve raccogliere fatti, sentire gli interessati e le altre amministrazioni, valutare gli interessi. Il procedimento rende visibile questo percorso e permette di controllarlo.
-- **La legge generale.** La L. 241/1990 detta le regole comuni a tutti i procedimenti; le leggi di settore possono aggiungerne di specifiche.
-- **I principi (art. 1).** Economicità, efficacia, imparzialità, pubblicità e trasparenza; divieto di aggravare il procedimento se non per straordinarie e motivate esigenze dell'istruttoria (c. 2); collaborazione e buona fede (c. 2-bis).
+- **Perché un procedimento.** Prima di decidere l'amministrazione deve conoscere i fatti, sentire gli interessati e le altre amministrazioni, pesare gli interessi in gioco. Il procedimento rende visibile e controllabile questo percorso.
+- **Tre funzioni.** Garantisce i privati (possono far valere le loro ragioni), migliora la decisione (più informazioni) e permette il controllo del giudice (si vede come si è deciso).
+- **Il rischio opposto.** Troppe regole rallentano l'azione: per questo, accanto alle garanzie, la legge prevede termini e strumenti di semplificazione.
+
+> **Nel mondo reale.** Per aprire un ristorante non basta "chiedere il permesso": servono la segnalazione al Comune, i requisiti igienico-sanitari verificati dall'ASL, a volte il parere dei vigili del fuoco. Ognuno di questi passaggi è un pezzo del procedimento.
+
+## 15.2 Procedimenti amministrativi e altri procedimenti giuridici
+
+Anche la legislazione e la giurisdizione si svolgono attraverso procedimenti, ma con caratteri diversi.
+
+| | Procedimento legislativo | Processo giurisdizionale | Procedimento amministrativo |
+| --- | --- | --- | --- |
+| Regole | Costituzione e regolamenti parlamentari | Codici di procedura | L. 241/1990 + leggi di settore |
+| Chi decide | Parlamento | Giudice terzo | L'amministrazione, che è anche parte interessata |
+| Contraddittorio | No | Pieno, tra parti uguali | Partecipazione, ma l'amministrazione decide |
+| Varietà | Pochi modelli | Pochi riti | Migliaia di procedimenti diversi |
+
+Verifica sul libro come Mattarella imposta il confronto: è un tema che riprende il par. 1.3 (confine tra amministrazione, legislazione e giurisdizione).
+
+## 15.3 La disciplina del procedimento
+
+Il procedimento è regolato da una legge generale e da moltissime discipline di settore.
+
+- **Legge generale e leggi speciali.** La L. 241/1990 detta i principi comuni; le leggi di settore (edilizia, ambiente, appalti, immigrazione) aggiungono regole specifiche.
+- **Stato e regioni (art. 29).** La L. 241/1990 si applica direttamente alle amministrazioni statali e agli enti nazionali; regioni ed enti locali regolano le stesse materie con proprie norme. Ma le regole su partecipazione, responsabile, termini, accesso, SCIA, silenzio assenso e conferenza di servizi sono livelli essenziali delle prestazioni (art. 117, c. 2, lett. m, Cost.): regioni ed enti locali possono aumentare le garanzie, non ridurle.
+- **I principi (art. 1).** Economicità, efficacia, imparzialità, pubblicità e trasparenza, principi del diritto UE; divieto di aggravare il procedimento senza straordinarie e motivate esigenze istruttorie (c. 2); collaborazione e buona fede (c. 2-bis).
+
+## 15.4 La legge n. 241 del 1990
+
+La L. 241/1990 è la prima legge generale italiana sul procedimento, e da allora è stata modificata molte volte.
+
+| Anno | Intervento | Novità principali |
+| --- | --- | --- |
+| 1990 | L. 241/1990 | Responsabile, partecipazione, motivazione, accesso, termini |
+| 2005 | L. 15/2005 e L. 80/2005 | Capo IV-bis su efficacia e invalidità; diritto privato per gli atti non autoritativi (art. 1, c. 1-bis) |
+| 2009 | L. 69/2009 | Termini più stretti, danno da ritardo (art. 2-bis) |
+| 2015 | L. 124/2015 (riforma Madia) | Conferenza di servizi riscritta, limiti all'autotutela, SCIA |
+| 2020 | D.L. 76/2020 (semplificazioni) | Inefficacia degli atti tardivi, preavviso di rigetto che sospende i termini |
+| 2025 | L. 182/2025 (semplificazione) | Annullamento d'ufficio entro 6 mesi |
+
+- **L'origine.** La legge deriva dai lavori di una commissione presieduta da Mario Nigro negli anni Ottanta. Verifica sul libro se Mattarella ne parla.
+- **Il filo comune delle riforme.** Ogni intervento ha cercato di bilanciare due obiettivi: più garanzie per il cittadino e più rapidità dell'azione.
+
+## 15.5 Lo svolgimento del procedimento
+
+Il procedimento si sviluppa in fasi, guidate da un responsabile e aperte alla partecipazione degli interessati.
 
 | Fase | Che cosa succede | Norme |
 | --- | --- | --- |
-| Iniziativa | Il procedimento parte d'ufficio o su istanza di parte | Art. 2, art. 7 |
+| Iniziativa | Parte d'ufficio o su istanza di parte | Artt. 2, 7 |
 | Istruttoria | Accertamento dei fatti, partecipazione, pareri, conferenza di servizi | Artt. 6, 9-10, 14-17 |
 | Decisoria | Adozione del provvedimento motivato | Artt. 2, 3 |
 | Integrativa dell'efficacia | Comunicazione, controlli, pubblicazione | Art. 21-bis |
 
-## Il dovere di concludere e i termini
+**Il responsabile del procedimento**
 
-L'amministrazione ha il dovere di concludere il procedimento con un provvedimento espresso, entro un termine certo.
+- **Chi è (artt. 4-5).** Il dirigente dell'unità organizzativa competente assegna a sé o a un dipendente la responsabilità del procedimento; il nome va comunicato agli interessati.
+- **Che cosa fa (art. 6).** Valuta i presupposti, accerta i fatti, chiede di rettificare dichiarazioni incomplete, propone o indice la conferenza di servizi, cura le comunicazioni; se è competente, adotta il provvedimento.
+- **Conflitto di interessi (art. 6-bis).** Il responsabile e chi adotta pareri e provvedimenti si astengono in caso di conflitto, anche potenziale.
 
-- **Obbligo di provvedere (art. 2, c. 1).** Vale sia per i procedimenti d'ufficio sia per quelli su istanza; se l'istanza è manifestamente irricevibile o infondata, basta un provvedimento in forma semplificata.
-- **I termini.** Per le amministrazioni statali e gli enti pubblici nazionali, in mancanza di una diversa previsione, il termine è di **30 giorni** (art. 2, c. 2); decreti e regolamenti possono fissarlo fino a 90 giorni, e fino a 180 per procedimenti particolarmente complessi, salvo cittadinanza e immigrazione (c. 3-4). Regioni ed enti locali regolano i propri termini nel rispetto dei livelli essenziali (art. 29).
-- **Il potere sostitutivo (art. 2, c. 9-bis ss.).** Se il responsabile non provvede, l'interessato può rivolgersi al funzionario con potere sostitutivo, che conclude il procedimento in un termine pari alla metà di quello originario.
-- **Gli atti tardivi (art. 2, c. 8-bis).** Introdotto nel 2020: sono inefficaci pareri, nulla osta e atti di assenso adottati dopo la scadenza dei termini nei casi indicati dalla norma (conferenza di servizi, silenzio assenso tra amministrazioni e verso i privati, divieti tardivi sulla SCIA). Non è una regola valida per qualunque atto tardivo.
-- **Danno e indennizzo da ritardo.** L'inosservanza dolosa o colposa del termine obbliga al risarcimento del danno (art. 2-bis, c. 1). Nei procedimenti a istanza di parte spetta anche un indennizzo per il mero ritardo (art. 2-bis, c. 1-bis): 30 euro per ogni giorno, fino a 2.000 euro, se l'interessato attiva il potere sostitutivo entro 20 giorni dalla scadenza (art. 28 D.L. 69/2013).
+**La partecipazione**
 
-## Il responsabile del procedimento
+- **Comunicazione di avvio (artt. 7-8).** Va data ai destinatari, a chi deve intervenire per legge e a chi può subire un pregiudizio; indica oggetto, ufficio, responsabile e termini.
+- **Intervento (art. 9).** Possono intervenire i portatori di interessi pubblici o privati e le associazioni o i comitati portatori di interessi diffusi a cui il provvedimento possa recare pregiudizio.
+- **Diritti dei partecipanti (art. 10).** Prendere visione degli atti e presentare memorie e documenti, che l'amministrazione deve valutare.
+- **Preavviso di rigetto (art. 10-bis).** Prima di respingere un'istanza, l'amministrazione comunica i motivi ostativi; l'interessato ha 10 giorni per le osservazioni. La comunicazione sospende i termini; se il diniego viene annullato, l'amministrazione non può addurre motivi che emergevano già dall'istruttoria.
+- **Esclusioni (art. 13).** Niente partecipazione per atti normativi, amministrativi generali, di pianificazione e programmazione, e per i procedimenti tributari.
+- **Accordi (art. 11).** Accordi integrativi o sostitutivi del provvedimento; recesso per sopravvenuti motivi di interesse pubblico, con indennizzo.
 
-Per ogni procedimento c'è un funzionario responsabile, a cui il cittadino può rivolgersi.
+> **Nel mondo reale.** Il Comune vuole ordinare la demolizione di una veranda abusiva: deve comunicare l'avvio al proprietario, che può presentare foto e documenti per dimostrare che la veranda è condonata. Chi chiede un permesso di soggiorno e sta per riceverne il rifiuto riceve prima un preavviso con i motivi, e può rispondere entro 10 giorni.
 
-- **Chi è (artt. 4-5).** L'amministrazione individua l'unità organizzativa competente; il dirigente assegna a sé o a un altro dipendente la responsabilità del procedimento.
-- **Che cosa fa (art. 6).** Valuta i presupposti, svolge l'istruttoria, chiede rettifiche di dichiarazioni e documenti, indice o propone la conferenza di servizi, cura comunicazioni e notifiche. Se non è competente ad adottare l'atto finale, trasmette gli atti all'organo che lo è.
-- **Conflitto di interessi (art. 6-bis).** Il responsabile e i titolari degli uffici competenti si astengono in caso di conflitto, anche potenziale.
+**La semplificazione dell'istruttoria**
 
-## La partecipazione
-
-Gli interessati possono intervenire nel procedimento per far valere le proprie ragioni prima della decisione.
-
-- **Comunicazione di avvio (artt. 7-8).** Va data ai destinatari del provvedimento, a chi deve intervenire per legge e a chi può subire un pregiudizio; indica l'oggetto, l'ufficio, il responsabile e i termini.
-- **Intervento (art. 9).** Può intervenire qualunque soggetto portatore di interessi pubblici o privati, e i portatori di interessi diffusi costituiti in associazioni o comitati, a cui il provvedimento possa recare pregiudizio.
-- **I diritti dei partecipanti (art. 10).** Prendere visione degli atti e presentare memorie e documenti, che l'amministrazione ha l'obbligo di valutare.
-- **Preavviso di rigetto (art. 10-bis).** Nei procedimenti a istanza di parte, prima di un diniego l'amministrazione comunica i motivi ostativi; l'interessato ha 10 giorni per le osservazioni. Dal 2020 la comunicazione **sospende** i termini, e se il diniego viene annullato l'amministrazione non può addurre motivi che poteva già indicare prima.
-- **Le esclusioni (art. 13).** La partecipazione non si applica ad atti normativi, amministrativi generali, di pianificazione e programmazione, e ai procedimenti tributari.
-- **Gli accordi (art. 11).** L'amministrazione può concludere con gli interessati accordi integrativi o sostitutivi del provvedimento; recesso unilaterale per sopravvenuti motivi di interesse pubblico, con indennizzo.
-
-## La semplificazione
-
-Molte norme della L. 241/1990 servono a rendere più rapida l'azione amministrativa e a ridurre gli oneri per i cittadini.
-
-- **Conferenza di servizi (artt. 14-14-quinquies).** Riunisce le amministrazioni che devono esprimersi su una stessa decisione. Di regola si svolge in forma semplificata e asincrona (scambio telematico, art. 14-bis); in forma simultanea per i casi complessi (art. 14-ter). La mancata risposta di un'amministrazione entro il termine vale assenso senza condizioni (art. 14-bis, c. 4). Le amministrazioni che tutelano ambiente, paesaggio, beni culturali, salute e pubblica incolumità, se hanno espresso un dissenso motivato, possono fare opposizione al Presidente del Consiglio dei ministri entro 10 giorni; se non si raggiunge un'intesa decide il Consiglio dei ministri (art. 14-quinquies).
-- **Pareri e valutazioni tecniche (artt. 16-17).** I pareri obbligatori vanno resi entro 20 giorni; se il parere non arriva, l'amministrazione procede comunque, salvo che debba rilasciarlo un'amministrazione preposta a tutela ambientale, paesaggistica, territoriale o della salute. Se le valutazioni tecniche non arrivano entro il termine (in mancanza, 90 giorni), il responsabile le chiede ad altri organi o enti con qualificazione equivalente.
+- **Conferenza di servizi (artt. 14 ss.).** Riunisce le amministrazioni che devono esprimersi sulla stessa decisione. Di regola è semplificata e asincrona, per scambio telematico (art. 14-bis); simultanea nei casi complessi (art. 14-ter). Chi non risponde in tempo si considera d'accordo. Le amministrazioni che tutelano ambiente, paesaggio, beni culturali e salute, se hanno espresso un dissenso motivato, possono fare opposizione al Presidente del Consiglio entro 10 giorni; senza intesa decide il Consiglio dei ministri (art. 14-quinquies).
+- **Pareri e valutazioni tecniche (artt. 16-17).** I pareri obbligatori vanno resi entro 20 giorni; altrimenti l'amministrazione procede, salvo per le amministrazioni che tutelano ambiente, paesaggio, territorio e salute. Le valutazioni tecniche mancanti si chiedono ad altri organi qualificati.
 - **Autocertificazione (art. 18 e d.P.R. 445/2000).** Il cittadino dichiara stati e fatti; l'amministrazione acquisisce d'ufficio i documenti che possiede già.
-- **SCIA (art. 19).** Per molte attività basta una segnalazione: l'attività inizia subito e l'amministrazione ha 60 giorni (30 in edilizia) per vietarla se mancano i requisiti. Dopo, può intervenire solo alle condizioni dell'annullamento d'ufficio (art. 21-nonies).
-- **Silenzio assenso (art. 20).** Nei procedimenti a istanza di parte, se l'amministrazione non risponde entro il termine, la domanda si intende accolta. Non vale per patrimonio culturale, ambiente, difesa, sicurezza, immigrazione, salute, e dove il diritto UE richiede un atto espresso. Dal 2020 l'interessato può chiedere un'attestazione telematica dell'avvenuto accoglimento (c. 2-bis).
 
-| Istituto | Chi agisce per primo | Effetto del silenzio dell'amministrazione |
+> **Nel mondo reale.** Per un impianto eolico servono il sì di Regione, Soprintendenza, Comune, autorità di bacino e altri enti: invece di girare ufficio per ufficio, l'amministrazione procedente convoca una conferenza di servizi.
+
+## 15.6 L'obbligo di concludere il procedimento
+
+L'amministrazione deve concludere ogni procedimento con un provvedimento espresso, entro un termine certo: il silenzio di regola è un inadempimento.
+
+- **Obbligo di provvedere (art. 2, c. 1).** Vale per i procedimenti d'ufficio e per quelli su istanza; se la domanda è manifestamente irricevibile, inammissibile, improcedibile o infondata, basta un provvedimento in forma semplificata.
+- **I termini.** Per le amministrazioni statali e gli enti pubblici nazionali, in mancanza di una diversa previsione, **30 giorni** (art. 2, c. 2); decreti e regolamenti possono arrivare a 90 giorni, e fino a 180 per i procedimenti complessi, salvo cittadinanza e immigrazione (c. 3-4). Regioni ed enti locali hanno regole proprie (art. 29).
+- **Il potere sostitutivo (art. 2, c. 9-bis e 9-ter).** Scaduto il termine, l'interessato si rivolge al funzionario con potere sostitutivo, che conclude in un termine pari alla metà di quello originario.
+- **Atti tardivi inefficaci (art. 2, c. 8-bis).** Dal 2020 sono inefficaci pareri, nulla osta e assensi adottati dopo la scadenza nei casi indicati dalla norma (conferenza di servizi, silenzio assenso, divieti tardivi sulla SCIA).
+- **Danno e indennizzo da ritardo.** Il ritardo doloso o colposo obbliga al risarcimento (art. 2-bis, c. 1). Nei procedimenti a istanza di parte spetta anche un indennizzo per il mero ritardo (art. 2-bis, c. 1-bis): 30 euro al giorno, fino a 2.000 euro, se l'interessato attiva il potere sostitutivo entro 20 giorni dalla scadenza (art. 28 D.L. 69/2013).
+- **Il ricorso contro il silenzio.** Se l'amministrazione resta inerte, si può chiedere al giudice amministrativo di ordinarle di provvedere, finché dura l'inadempimento e comunque entro un anno dalla scadenza del termine (artt. 31 e 117 c.p.a.).
+
+> **Nel mondo reale.** Un'impresa chiede un'autorizzazione e dopo mesi non riceve risposta. Può rivolgersi al titolare del potere sostitutivo, il cui nome deve essere pubblicato sul sito dell'ente; se anche lui non provvede, può fare ricorso al TAR contro il silenzio e chiedere l'indennizzo da ritardo.
+
+## 15.7 L'atto conclusivo del procedimento
+
+Di regola il procedimento si chiude con un provvedimento motivato, ma la legge prevede anche altre conclusioni.
+
+- **Il provvedimento espresso e la motivazione (art. 3).** Indica i presupposti di fatto e le ragioni giuridiche della decisione, in relazione alle risultanze dell'istruttoria. Non serve per gli atti normativi e generali; può rinviare a un altro atto (motivazione per relationem), che va indicato e reso disponibile.
+- **L'accordo (art. 11).** Il procedimento può chiudersi con un accordo al posto del provvedimento.
+- **Il silenzio assenso (art. 20).** Nei procedimenti a istanza di parte il silenzio vale accoglimento. Non si applica a patrimonio culturale e paesaggistico, ambiente, rischio idrogeologico, difesa, pubblica sicurezza, immigrazione, asilo e cittadinanza, salute e pubblica incolumità, e dove il diritto UE richiede un atto formale. L'interessato può ottenere un'attestazione telematica dell'accoglimento (c. 2-bis).
+- **La SCIA (art. 19).** Qui il provvedimento manca del tutto: il privato segnala e inizia subito l'attività; l'amministrazione ha 60 giorni (30 in edilizia) per vietarla, dopo solo alle condizioni dell'annullamento d'ufficio.
+
+| Istituto | Chi agisce | Effetto del silenzio dell'amministrazione |
 | --- | --- | --- |
-| Istanza ordinaria | Privato chiede, amministrazione decide | Inadempimento: si ricorre al giudice (artt. 31 e 117 c.p.a.) |
+| Istanza ordinaria | Privato chiede, amministrazione decide | Inadempimento: ricorso al giudice |
 | Silenzio assenso | Privato chiede | Accoglimento |
 | SCIA | Privato segnala e inizia | L'attività prosegue legittimamente |
 
-## La motivazione
+> **Nel mondo reale.** Chi apre un negozio di abbigliamento presenta una SCIA allo sportello unico del Comune (SUAP) e può alzare la serranda lo stesso giorno. Chi ristruttura casa senza toccare le strutture presenta una CILA o una SCIA edilizia, mentre per costruire un edificio nuovo serve il permesso di costruire.
 
-Ogni provvedimento deve essere motivato: la motivazione permette al destinatario di capire la decisione e al giudice di controllarla.
+## 15.8 Tipologia dei procedimenti
 
-- **Contenuto (art. 3).** Indica i presupposti di fatto e le ragioni giuridiche della decisione, in relazione alle risultanze dell'istruttoria.
-- **Eccezioni.** Non serve per gli atti normativi e per quelli a contenuto generale.
-- **Per relationem.** La motivazione può rinviare a un altro atto (es. un parere), che va indicato e reso disponibile.
+I procedimenti si possono classificare con criteri diversi. Verifica sul libro quali usa Mattarella.
+
+| Criterio | Tipi | Esempi |
+| --- | --- | --- |
+| Avvio | D'ufficio / a istanza di parte | Controllo fiscale / domanda di contributo |
+| Effetto sul privato | Ampliativi / restrittivi | Concessione, autorizzazione / esproprio, sanzione |
+| Funzione | Autorizzatori, concessori, ablatori, sanzionatori, di controllo | Permesso di costruire, concessione demaniale, esproprio, multa |
+| Rapporto con altri atti | Di primo grado / di secondo grado | Rilascio di una licenza / sua revoca o annullamento |
+| Complessità | Semplici / complessi o composti | Certificato anagrafico / grande opera con conferenza di servizi |
+| Destinatari | Singolari / generali | Autorizzazione a una persona / bando di concorso |
 
 ## Domande di verifica
 
-1. In quali fasi si articola il procedimento, e a che cosa serve ciascuna?
-2. Che cosa succede se l'amministrazione non conclude il procedimento entro il termine? Indica almeno tre rimedi.
-3. Che cos'è il preavviso di rigetto e che cosa è cambiato nel 2020?
-4. Che differenza c'è tra SCIA e silenzio assenso?
-5. Quali atti sono esclusi dalla partecipazione e dall'obbligo di motivazione, e perché?
+1. Perché l'attività amministrativa è "procedimentalizzata", e in che cosa il procedimento amministrativo si distingue dal processo?
+2. Quali sono le tappe principali della storia della L. 241/1990?
+3. Che cosa succede se l'amministrazione non conclude il procedimento entro il termine? Indica almeno tre rimedi.
+4. Che cos'è il preavviso di rigetto e che cosa è cambiato nel 2020?
+5. Che differenza c'è tra SCIA e silenzio assenso?
 
-- [ ] Leggere il cap. 15 sul libro (pp. 179-192), allineare i titoli dei paragrafi e confrontarlo con questo schema
+- [ ] Leggere il cap. 15 sul libro (pp. 179-192), controllare i titoli dei paragrafi e confrontarlo con questo schema
 
 ## Fonti
 
+- [Mattarella, Lezioni di diritto amministrativo, 1ª ed., indice (IBS)](https://www.ibs.it/pdf/9788892113565.pdf)
 - [L. 241/1990, testo vigente (Normattiva)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241)
 - [D.lgs. 104/2010, codice del processo amministrativo (Normattiva)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104)
 - [D.P.R. 445/2000, documentazione amministrativa (Normattiva)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445)
+- [D.L. 69/2013, art. 28, indennizzo da ritardo (Normattiva)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-06-21;69~art28)

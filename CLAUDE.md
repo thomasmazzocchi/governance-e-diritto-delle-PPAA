@@ -59,10 +59,14 @@ libro di finanza.
 ## Stato dei lavori
 
 Schemi completi nella repo (`parte-base/`). I cap. 1, 2 e 4 sono il riferimento di stile.
-Tutta la parte base è coperta: 8.5, 14.4, 15, 16-17 (in un unico file), 7.4, 19, 20.
-Questi ultimi sono divisi per tema perché l'indice dei paragrafi del libro non è disponibile online:
-quando Thomas fornisce i sommari dei capitoli, riallineare le sezioni ai titoli del libro.
+Tutta la parte base è coperta: 8.5, 14.4, 15, 16, 17, 7.4, 19, 20.
+I titoli dei paragrafi seguono l'indice della 1ª edizione (2018), trovato online e salvato in
+`risorse/indice-mattarella-1a-ed.md`; le pagine coincidono quasi con la 3ª. Della 1ª e 2ª edizione
+online c'è solo l'indice (1ª) e lo stesso estratto del cap. 1 (2ª), non il testo degli altri capitoli.
+Ogni schema ha esempi concreti nei riquadri "> **Nel mondo reale.**" (non dal libro, verificati).
 Il cap. 19 include la riforma della responsabilità erariale (L. 1/2026), successiva alla 3ª edizione.
+Novità successive al libro già integrate: annullamento d'ufficio 6 mesi (L. 182/2025), ricorso
+straordinario al Presidente del Consiglio di Stato (D.L. 19/2026), scudo erariale scaduto il 31/12/2025.
 
 **Prossimo**: parte avanzata (servizi pubblici).
 

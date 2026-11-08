@@ -1,6 +1,6 @@
 # 8.5 – I principi costituzionali (Mattarella)
 
-Il testo del par. 8.5 di Mattarella (pp. 108-110) non è disponibile online. Il capitolo 8 apre la parte sugli strumenti delle amministrazioni, e il primo strumento sono gli uffici: per questo lo schema tratta i principi costituzionali soprattutto dal punto di vista dell'**organizzazione**. Il contenuto viene da fonti normative e universitarie e va confrontato con il libro. Completa il quadro generale dei principi già visto nel par. 4.3 (cap. 4).
+Il testo del par. 8.5 di Mattarella (pp. 108-110) non è disponibile online. Secondo l'**indice della 1ª edizione (2018)**, il capitolo 8 si intitola "L'organizzazione degli uffici" (8.1 Amministrazioni, uffici, organi; 8.2 I rapporti tra uffici; 8.3 I controlli amministrativi; 8.4 La potestà organizzativa; 8.5 I princìpi costituzionali): per questo lo schema tratta i principi costituzionali soprattutto dal punto di vista dell'**organizzazione**. Il contenuto viene da fonti normative e universitarie e va confrontato con il libro. Completa il quadro generale dei principi già visto nel par. 4.3 (cap. 4).
 
 ## Il quadro: gli articoli della Costituzione sull'amministrazione
 
@@ -26,6 +26,8 @@ L'art. 97 è il cuore dello statuto costituzionale dell'amministrazione.
 - **Competenze e responsabilità (c. 3).** Nell'ordinamento degli uffici sono determinate le sfere di competenza, le attribuzioni e le responsabilità proprie dei funzionari.
 - **Concorso pubblico (c. 4).** Agli impieghi si accede mediante concorso, salvo i casi stabiliti dalla legge: garantisce imparzialità e scelta dei migliori.
 
+> **Nel mondo reale.** Per diventare funzionario dell'INPS o insegnante di ruolo si vince un concorso pubblico, con bando e graduatoria: è l'art. 97, c. 4. Un Comune che non riesce più a pagare i propri debiti dichiara il dissesto finanziario e viene risanato sotto controllo statale: è il rovescio dell'equilibrio di bilancio del c. 1.
+
 ## Politica e amministrazione
 
 Dai principi di imparzialità e di responsabilità ministeriale nasce il problema del rapporto tra organi politici e dirigenti.
@@ -40,6 +42,8 @@ Dai principi di imparzialità e di responsabilità ministeriale nasce il problem
 | Assegnano le risorse | Gestiscono risorse finanziarie, umane e strumentali |
 | Verificano i risultati | Rispondono dei risultati (responsabilità dirigenziale) |
 
+> **Nel mondo reale.** Il ministro della Salute fissa l'obiettivo di ridurre le liste d'attesa e assegna i fondi; sono i dirigenti a firmare i contratti, i bandi e i provvedimenti. Il sindaco decide le priorità della giunta, ma il permesso di costruire lo firma il dirigente dell'ufficio tecnico, non lui.
+
 ## Autonomie e sussidiarietà
 
 La Costituzione disegna un'amministrazione "plurale", articolata su più livelli di governo.
@@ -47,6 +51,8 @@ La Costituzione disegna un'amministrazione "plurale", articolata su più livelli
 - **Art. 5.** La Repubblica è una e indivisibile, ma riconosce e promuove le autonomie locali.
 - **Art. 114.** Dopo la riforma del Titolo V (L. cost. 3/2001) gli enti territoriali sono, con lo Stato, enti costitutivi della Repubblica.
 - **Art. 118.** Funzioni ai Comuni, salvo conferimento ai livelli superiori per sussidiarietà, differenziazione e adeguatezza; sussidiarietà orizzontale al c. 4. Il tema è già nel par. 1.4.
+
+> **Nel mondo reale.** L'anagrafe e i permessi edilizi sono del Comune, la sanità è organizzata dalle Regioni, la difesa è dello Stato: ogni funzione è al livello più adatto. Sussidiarietà orizzontale: molti Comuni, a partire da Bologna nel 2014, hanno adottato regolamenti sui "beni comuni" che permettono a gruppi di cittadini di prendersi cura di un giardino o di una piazza con un patto di collaborazione.
 
 ## Domande di verifica
 

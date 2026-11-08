@@ -51,3 +51,47 @@ Verifica fatta **dopo** la scrittura degli schemi, come passaggio separato. Font
 - Che l'art. 1, c. 1-bis, L. 241/1990 sia stato introdotto dalla L. 15/2005 (dato noto, ma non controllato sulla fonte primaria).
 - Conseil d'État 1872 e IV Sezione 1889 (cap. 2).
 - Le parti del cap. 1 tratte dall'estratto di Mattarella: non ho ricontrollato il riassunto rispetto al testo.
+
+---
+
+# Seconda verifica: confronto con le edizioni precedenti ed esempi (8 novembre 2026)
+
+## Che cosa si trova online delle edizioni precedenti
+
+| Edizione | Che cosa è disponibile |
+|---|---|
+| 1ª (2018, ISBN 9788892113565) | **Indice completo** con i titoli di tutti i paragrafi ([estratto IBS](https://www.ibs.it/pdf/9788892113565.pdf)), salvato in `risorse/indice-mattarella-1a-ed.md` |
+| 2ª (2020, ISBN 9788892137332) | Solo introduzione e cap. 1, uguali alla 3ª (estratto Giappichelli) |
+| 3ª (2023) | Solo introduzione e cap. 1, pp. 3-11 |
+
+Il testo dei capitoli successivi al primo non è disponibile in nessuna edizione: il confronto è stato fatto sui **titoli dei paragrafi**. Le pagine della 1ª edizione coincidono quasi con la mappa della 3ª (stesse pagine fino al cap. 17, +2 dal cap. 19), quindi la struttura è con ogni probabilità la stessa.
+
+## Lacune trovate e colmate
+
+| Schema | Paragrafi del libro che mancavano o erano solo accennati |
+|---|---|
+| cap-15 | 15.1 procedimentalizzazione, 15.2 confronto con gli altri procedimenti, 15.4 storia della L. 241/1990, 15.8 tipologia dei procedimenti |
+| cap-16 (prima unito al 17) | 16.4 struttura del provvedimento, 16.5 esternazione |
+| cap-17 (prima unito al 16) | 17.2 atti amministrativi generali, 17.8 atti dichiarativi, 17.9 atti politici e di alta amministrazione, 17.10 provvedimenti e altri atti |
+| cap-19 | 19.2 obblighi delle amministrazioni (contratti, ritardi di pagamento), 19.4 responsabilità da fatto lecito (indennizzi), responsabilità contabile degli agenti contabili |
+| cap-20 | 20.2 il giudice amministrativo (TAR, Consiglio di Stato, CGARS, Adunanza plenaria), 20.6 gli altri giudici |
+| par-07.4 | Titolo corretto ("La trasparenza amministrativa", non solo accesso); obblighi di pubblicazione, legame con l'anticorruzione |
+| par-08.5, par-14.4 | Aggiunto il contesto dei rispettivi capitoli dall'indice |
+
+## Nuove affermazioni verificate
+
+**Sul testo vigente (Normattiva):** L. 1034/1971 art. 1 (TAR); L. 689/1981 artt. 1 e 3; d.P.R. 327/2001 art. 8 (fasi dell'esproprio); L. 210/1992 art. 1 (indennizzo vaccinazioni); d.lgs. 231/2002 art. 4 (30 giorni, raddoppiabili); L. 241/1990 art. 29 (livelli essenziali); art. 2051 c.c.; Cost. artt. 42 e 100; D.L. 18/2020 art. 6 (requisizione di alberghi); d.lgs. 116/2016 (falsa attestazione della presenza).
+
+**Esempi reali, confermati da fonti secondarie:**
+- CGUE 28 gennaio 2020, C-122/18, Commissione c. Italia: inadempimento della direttiva sui ritardi di pagamento ([diritto.it](https://www.diritto.it/violazione-della-direttiva-relativa-alla-lotta-contro-i-ritardi-di-pagamento-nelle-transazioni-commerciali-la-cgue-condanna-litalia/)).
+- TAR Calabria (Catanzaro), 9 maggio 2020, n. 841: annullata l'ordinanza regionale che riapriva bar e ristoranti ([AGI](https://www.agi.it/cronaca/news/2020-05-09/tar-annulla-ordinanza-calabria-8564110/)).
+- Fratelli Costanzo: gara del Comune di Milano per lavori allo stadio, offerte anomale (CGUE 22 giugno 1989, causa 103/88).
+- Concessioni balneari: Cons. Stato, Ad. Plen. 17 e 18/2021.
+- Ponte Morandi: revoca annunciata ma mai disposta; accordo nel 2020 e vendita di ASPI nel 2021 a una cordata guidata da CDP ([Il Post](https://www.ilpost.it/2020/07/09/autostrade-concessione-ponte-genova/)). Corretto lo schema, che parlava di procedimento "chiuso con un accordo" in modo impreciso.
+- Bologna, regolamento sui beni comuni del 2014.
+- Sanremo 2015 (operazione "Stakanov"): aggiunto che alcuni imputati sono stati poi assolti ([Il Post](https://www.ilpost.it/2015/10/22/sanremo-arresti-cartellini/)).
+- Verbali del CTS: richiesta di accesso civico della Fondazione Einaudi, TAR Lazio 2020, poi verbali resi pubblici ([Quotidiano Sanità](https://www.quotidianosanita.it/?p=97359)). Lo schema è stato reso più preciso.
+
+**Esempi non riferiti a fatti specifici** (bar, buche stradali, concorsi, verande abusive): sono situazioni tipo, costruite per spiegare, e applicano norme verificate.
+
+**Non verificato:** il ruolo della commissione Nigro nell'origine della L. 241/1990 (nello schema è segnalato da controllare sul libro).

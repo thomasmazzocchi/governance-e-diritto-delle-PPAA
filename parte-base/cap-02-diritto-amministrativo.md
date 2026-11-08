@@ -39,6 +39,8 @@ La legge può regolare una funzione in modi diversi, e la scelta dipende da effi
 - **Controllare.** Controlli interni, controlli della Corte dei conti e controllo dei giudici.
 - **Lasciare spazio alla scelta.** La legge può fissare tutto (atto vincolato) o lasciare un margine di valutazione all'amministrazione (discrezionalità): il tema torna nel cap. 16.
 
+> **Nel mondo reale.** La sicurezza degli alimenti si tutela con tecniche diverse insieme: la registrazione sanitaria del ristorante (potere), le regole HACCP sulla preparazione dei cibi (disciplina dell'attività), i controlli delle ASL e dei NAS (controllo), le sanzioni e la chiusura del locale (sanzione).
+
 Verifica sul libro quali tecniche elenca l'autore: è probabile che le organizzi in modo diverso da questo elenco.
 
 ## 2.4 I caratteri del diritto amministrativo

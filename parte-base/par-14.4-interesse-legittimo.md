@@ -1,6 +1,6 @@
 # 14.4 – L'interesse legittimo (Mattarella)
 
-Il testo del par. 14.4 di Mattarella (pp. 176-178) non è disponibile online. Il capitolo 14 tratta il potere amministrativo, e l'interesse legittimo è la situazione del privato di fronte a quel potere. Lo schema usa fonti normative, giurisprudenziali e universitarie, da confrontare con il libro. Serve per il tema "tutele" del programma, insieme al cap. 20.
+Il testo del par. 14.4 di Mattarella (pp. 176-178) non è disponibile online. Secondo l'**indice della 1ª edizione (2018)**, il capitolo 14 si intitola "Il potere amministrativo" (14.1 Le situazioni giuridiche soggettive delle pubbliche amministrazioni; 14.2 Il potere amministrativo; 14.3 Caratteri del potere amministrativo; 14.4 L'interesse legittimo), e l'interesse legittimo è la situazione del privato di fronte a quel potere. Lo schema usa fonti normative, giurisprudenziali e universitarie, da confrontare con il libro. Serve per il tema "tutele" del programma, insieme al cap. 20.
 
 ## Che cos'è l'interesse legittimo
 
@@ -18,6 +18,8 @@ L'interesse legittimo è la posizione del privato di fronte al potere amministra
 | Oppositivo | Conservare un bene che ha già | Proprietario contro l'esproprio | Il bene torna protetto |
 | Pretensivo | Ottenere un bene che non ha | Chi chiede un permesso di costruire | Solo un nuovo esercizio del potere, non il permesso |
 
+> **Nel mondo reale.** Oppositivo: il proprietario di un terreno che il Comune vuole espropriare per una rotatoria contesta l'esproprio per conservare il terreno. Pretensivo: chi chiede la licenza per un chiosco e se la vede negare contesta il diniego per ottenerla; se vince al TAR, il Comune deve rivalutare la domanda, non è obbligato a rilasciare la licenza.
+
 Per gli interessi pretensivi l'annullamento spesso non basta: per questo il codice del processo amministrativo ha introdotto l'azione di adempimento (art. 34, c. 1, lett. c, d.lgs. 104/2010), utilizzabile quando l'attività è vincolata.
 
 ## Interesse legittimo e diritto soggettivo
@@ -34,12 +36,15 @@ La distinzione decide quale giudice è competente, quindi ha grande importanza p
 | Garantisce | Il bene | Il corretto esercizio del potere |
 | Giudice di regola | Ordinario | Amministrativo |
 
+> **Nel mondo reale.** Il dipendente comunale che non riceve lo stipendio ha un diritto soggettivo: l'amministrazione deve solo pagare, e la causa va al giudice del lavoro. Il candidato escluso da un concorso ha un interesse legittimo: la commissione ha esercitato un potere di valutazione, e il ricorso va al TAR.
+
 ## La risarcibilità
 
 Per molto tempo l'interesse legittimo era tutelato solo con l'annullamento. Oggi può dare luogo anche al risarcimento del danno.
 
 - **La svolta: Cass., Sez. Un., 500/1999.** La lesione dell'interesse legittimo può essere un danno ingiusto risarcibile ex art. 2043 c.c., se è leso il bene della vita a cui l'interesse è collegato.
 - **La legislazione.** La L. 205/2000 attribuisce al giudice amministrativo il risarcimento; oggi l'art. 30 c.p.a. prevede l'azione di condanna, anche autonoma, entro 120 giorni.
+- **Un esempio.** L'impresa esclusa illegittimamente da una gara d'appalto, che dimostra che avrebbe vinto, ottiene il risarcimento del mancato guadagno.
 - **Il limite.** Per gli interessi pretensivi serve un giudizio prognostico: il risarcimento spetta se il privato avrebbe ottenuto il bene con un esercizio corretto del potere.
 
 ## La tutela nel procedimento

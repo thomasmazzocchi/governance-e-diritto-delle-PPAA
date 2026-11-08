@@ -23,6 +23,8 @@ Le regole dell'amministrazione vengono da fonti di livelli diversi, e il diritto
 | Decisione | Destinatari indicati | Obbligatoria per loro | No |
 | Raccomandazione, parere | — | Non vincolanti | — |
 
+> **Nel mondo reale.** Il GDPR (Reg. UE 2016/679) sulla protezione dei dati personali si applica direttamente in Italia: è un regolamento. La direttiva servizi (2006/123/CE, "Bolkestein") ha dovuto essere recepita con una legge italiana (d.lgs. 59/2010): è una direttiva.
+
 **Efficacia diretta delle direttive.** Di regola la direttiva non ha efficacia diretta. Ce l'ha se è incondizionata, chiara e precisa e lo Stato non l'ha recepita entro il termine (sentenza Van Duyn). L'efficacia è solo verticale: il cittadino la fa valere contro lo Stato, non contro altri privati, e lo Stato non può farla valere contro il cittadino (sentenza Faccini Dori).
 
 **Primato e disapplicazione: le tre fasi della Corte costituzionale**
@@ -32,6 +34,8 @@ Le regole dell'amministrazione vengono da fonti di livelli diversi, e il diritto
 3. **Primato e disapplicazione** (sent. 170/1984, Granital): il giudice comune non applica la legge in contrasto con norme UE con effetto diretto, senza passare dalla Corte costituzionale. Restano i controlimiti.
 
 **Vale anche per l'amministrazione.** Dalla sentenza Fratelli Costanzo (Corte di giustizia, 1989) anche la pubblica amministrazione deve disapplicare la norma interna contraria al diritto UE. Nella pratica l'uso di questo potere da parte degli uffici resta discusso.
+
+> **Nel mondo reale.** Il caso Fratelli Costanzo nasce da una gara d'appalto del Comune di Milano: il Comune aveva escluso automaticamente le offerte troppo basse applicando una norma italiana contraria a una direttiva. La Corte di giustizia disse che il Comune avrebbe dovuto disapplicare la norma italiana.
 
 **Base costituzionale.** Artt. 11 e 117, primo comma, Cost.: il legislatore deve rispettare i vincoli derivanti dall'ordinamento UE.
 
