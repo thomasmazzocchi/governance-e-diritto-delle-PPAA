@@ -58,13 +58,13 @@ libro di finanza.
 
 ## Stato dei lavori
 
-Schemi completi nella repo (`parte-base/`), approvati e da usare come riferimento di stile:
-- `cap-01-funzioni-amministrative.md`
-- `cap-02-diritto-amministrativo.md`
-- `cap-04-fonti.md`
+Schemi completi nella repo (`parte-base/`). I cap. 1, 2 e 4 sono il riferimento di stile.
+Tutta la parte base è coperta: 8.5, 14.4, 15, 16-17 (in un unico file), 7.4, 19, 20.
+Questi ultimi sono divisi per tema perché l'indice dei paragrafi del libro non è disponibile online:
+quando Thomas fornisce i sommari dei capitoli, riallineare le sezioni ai titoli del libro.
+Il cap. 19 include la riforma della responsabilità erariale (L. 1/2026), successiva alla 3ª edizione.
 
-**Prossimi schemi da fare**: 8.5 principi costituzionali e 14.4 interesse legittimo, poi cap. 15
-(procedimento), 16-17 (provvedimento), 7.4 (accesso), 19 (responsabilità), 20 (tutele).
+**Prossimo**: parte avanzata (servizi pubblici).
 
 Metodo usato negli schemi: un paragrafo per sezione del libro, tabelle per confronti, domande di
 verifica alla fine, fonti affidabili linkate. Il testo del Mattarella online è disponibile solo
