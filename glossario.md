@@ -7,3 +7,5 @@
 - **PTPCT** – Piano Triennale di Prevenzione della Corruzione e della Trasparenza
 - **RPCT** – Responsabile della Prevenzione della Corruzione e della Trasparenza
 - **RUP** – Responsabile Unico del Progetto (D.Lgs. 36/2023)
+- **c.p.a.** – Codice del processo amministrativo (d.lgs. 104/2010)
+- **TFUE** – Trattato sul funzionamento dell'Unione europea

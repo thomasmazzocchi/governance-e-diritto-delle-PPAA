@@ -1,0 +1,138 @@
+# Contesto: preparazione esame di Diritto amministrativo (corso GEPID)
+
+> Nota per Claude Code: questo file riassume una conversazione avvenuta su claude.ai.
+> Serve a continuare il lavoro di studio senza ripartire da zero.
+
+## Chi sono e cosa sto facendo
+
+- Mi chiamo Thomas, lavoro full time e studio da non frequentante.
+- Esame: **7 gennaio 2027**.
+- Testo principale: **B.G. Mattarella, *Lezioni di diritto amministrativo*, Giappichelli, terza edizione**.
+- Voglio studiare **strettamente** i temi del programma, senza capitoli extra.
+
+## Programma ufficiale (parte base)
+
+Le fonti del diritto amministrativo, con particolare riguardo alla normativa comunitaria; i principi
+del diritto delle amministrazioni pubbliche; le funzioni dell'amministrazione pubblica; il procedimento
+amministrativo; atti e provvedimenti; accesso agli atti; le responsabilità; il sistema delle tutele.
+
+## Mappa programma → Mattarella (terza edizione, pagine della mia copia)
+
+| Tema | Capitoli e pagine |
+|---|---|
+| Funzioni dell'amministrazione | Cap. 1 (3-14) |
+| Fonti, con normativa comunitaria | Cap. 4 (45-60) |
+| Principi | 4.3 (52) e 8.5 (108-110) |
+| Procedimento amministrativo | Cap. 15 (179-192) |
+| Atti e provvedimenti | Cap. 16 (193-210) e cap. 17 (211-222) |
+| Accesso agli atti | 7.4 (92-94), più le parti nel cap. 15 |
+| Responsabilità | Cap. 19 (239-250) |
+| Tutele | Cap. 20 (251-262), più 14.4 interesse legittimo (176-178) |
+
+Facoltativi: 7.5 amministrazione digitale (95-98), 6.7 amministrazioni ultrastatali (81-84).
+Esclusi dal programma: cap. 2, 3, 5, 6, 9-13, 18 (il cap. 2 è stato comunque schematizzato).
+
+Indice completo del libro: Parte I Nozioni generali (cap. 1-4), Parte II La pubblica amministrazione
+(cap. 5-7), Parte III Gli strumenti (cap. 8-12), Parte IV I processi (cap. 13-18), Parte V I rimedi (cap. 19-20).
+
+## Parte avanzata indicata dal professore (mail del 3 novembre)
+
+| Materiale | Cosa studiare | Priorità |
+|---|---|---|
+| "Appunti di Finanza e Costituzione" (probabilmente S. Nicodemo, *Appunti su finanza pubblica e Costituzione*) | Seconda parte, sui servizi pubblici | Alta |
+| Libro sul diritto dell'amministrazione digitale (forse Cavallo Perin - Galetta, *Il diritto dell'amministrazione pubblica digitale*, Giappichelli, da confermare) | Cap. VII (servizi pubblici), cap. I e V | Alta |
+| "Appunti di Finanza e Costituzione" | Patto di stabilità | Bassa, "non essenziale" |
+
+**Da chiarire con il professore** (bozza di mail già preparata): autore ed edizione del libro sul
+digitale (la numerazione dei capitoli cambia tra le edizioni) e da dove inizia la seconda parte del
+libro di finanza.
+
+## Calendario
+
+| Periodo | Cosa |
+|---|---|
+| 3-9 nov | Finire le ultime ~50 pagine del Mattarella |
+| 10-30 nov | Servizi pubblici (libro di finanza e cap. VII digitale) |
+| 1-14 dic | Cap. I e V digitale, poi patto di stabilità se c'è tempo |
+| 15 dic - 6 gen | Ripasso di tutto: schemi, quiz, ripasso a voce |
+
+## Stato dei lavori
+
+Schemi già creati su claude.ai (Claude Docs, non apribili da Claude Code):
+- Cap. 1 – Le funzioni amministrative
+- Cap. 2 – Il diritto amministrativo
+- Cap. 4 – Le fonti
+
+**Prossimi schemi da fare**: 8.5 principi costituzionali e 14.4 interesse legittimo, poi cap. 15
+(procedimento), 16-17 (provvedimento), 7.4 (accesso), 19 (responsabilità), 20 (tutele).
+
+Metodo usato negli schemi: un paragrafo per sezione del libro, tabelle per confronti, domande di
+verifica alla fine, fonti affidabili linkate. Il testo del Mattarella online è disponibile solo
+nell'estratto ufficiale dell'editore (Introduzione e cap. 1, pp. 3-11):
+https://giappichelli.it/media/catalog/product/excerpt/9791221102628.pdf
+Per il resto, segnalare sempre che il contenuto va confrontato con il libro.
+
+## Riassunto dei contenuti già studiati
+
+### Cap. 1 – Le funzioni amministrative (dal testo di Mattarella)
+- Il diritto amministrativo esiste perché le attività delle amministrazioni hanno fine pubblico e
+  spesso comportano poteri, quindi servono regole e controlli particolari.
+- "Funzione" = attività svolta nell'interesse di altri. Le funzioni amministrative sono al plurale
+  perché attribuite da tante norme diverse e svolte in modi eterogenei (a differenza di legislazione
+  e giurisdizione). Da qui parte generale e parte speciale del diritto amministrativo.
+- Sette gruppi di funzioni: ordine, benessere, lavoro, cultura e informazione, governo del
+  territorio, servizi pubblici economici, disciplina dell'economia. Ordine = decisioni unilaterali,
+  Costituzione che limita; benessere = prestazioni, Costituzione che promuove (art. 3, c. 2).
+- Ambito: varia nel tempo, lo decide la politica. Concetto chiave: lo "sdoppiamento" (la norma
+  individua la funzione, poi l'amministrazione la svolge); le norme amministrative non sono
+  "autosufficienti" come quelle civili e penali.
+- Art. 118 Cost.: funzioni ai Comuni, salvo conferimento per sussidiarietà, differenziazione,
+  adeguatezza; c. 4 sussidiarietà orizzontale.
+- Paragrafo 1.4 (I caratteri) non disponibile online: da completare sul libro.
+
+### Cap. 2 – Il diritto amministrativo (fonti esterne al libro)
+- Nasce nel XIX secolo con lo Stato di diritto; ruolo decisivo del giudice speciale (Conseil d'État
+  1872, IV Sezione del Consiglio di Stato 1889).
+- Art. 1, c. 1-bis, L. 241/1990: per atti non autoritativi l'amministrazione agisce secondo il diritto
+  privato, salvo diversa disposizione di legge; c. 1-ter: i privati che svolgono attività
+  amministrative rispettano i principi dell'art. 1. Accordi ex art. 11: natura pubblicistica.
+- Caratteri: autonomo e speciale, di origine giurisprudenziale, non codificato, statale (oggi con
+  forte dimensione europea), diviso in parte generale e speciale.
+
+### Cap. 4 – Le fonti (fonti esterne al libro)
+- Gerarchia: Costituzione, diritto UE (con controlimiti), fonti primarie, regolamenti, consuetudini.
+- Art. 288 TFUE: regolamento (generale, direttamente applicabile), direttiva (vincola sul risultato,
+  va recepita), decisione, raccomandazioni e pareri (non vincolanti). Efficacia diretta delle
+  direttive se incondizionate, chiare e precise e non recepite in tempo (Van Duyn); solo verticale
+  (Faccini Dori).
+- Corte costituzionale: Costa c. Enel 14/1964 (no primato), Frontini 183/1973 e ICIC 232/1975 (primato
+  ma no disapplicazione), Granital 170/1984 (primato e disapplicazione da parte del giudice comune).
+  Anche la PA deve disapplicare (Corte di giustizia, Fratelli Costanzo, 1989). Artt. 11 e 117, c. 1, Cost.
+- Regolamenti governativi (art. 17 L. 400/1988): esecutivi, di attuazione e integrazione,
+  indipendenti, di organizzazione, delegati (delegificazione). Le circolari non sono fonti in senso proprio.
+- Principi: art. 97 (legalità, imparzialità, buon andamento), 98, 28, 113, 118 Cost.; art. 1 L. 241/1990
+  (economicità, efficacia, imparzialità, pubblicità, trasparenza, principi UE; c. 2-bis collaborazione
+  e buona fede); principi UE (proporzionalità, legittimo affidamento, non discriminazione).
+- Norme generali: L. 241/1990, d.lgs. 165/2001, d.lgs. 33/2013, d.lgs. 82/2005 (CAD), d.lgs. 104/2010 (cpa).
+
+### Interesse legittimo (14.4, spiegazione generale)
+- Pretesa all'esercizio corretto del potere, non al bene in sé. Oppositivo (difendere ciò che si ha)
+  e pretensivo (ottenere un vantaggio). Tutela davanti al giudice amministrativo: annullamento entro
+  60 giorni, risarcimento dal 1999 (Cass. SU 500/1999). Criterio: se l'amministrazione ha un potere
+  da esercitare, c'è interesse legittimo; se deve solo adempiere, diritto soggettivo.
+
+## Come aiutarmi
+
+- Rispondi in italiano.
+- Per ogni capitolo: schema chiaro, tabelle per i confronti, domande di verifica, fonti affidabili.
+- Distingui sempre ciò che viene dal testo di Mattarella da ciò che viene da altre fonti.
+
+## Struttura della repo
+
+- `parte-base/` – un file per tema del programma, in ordine di programma (01-09)
+- `parte-avanzata/` – materiali indicati dal professore (servizi pubblici, digitale, patto di stabilità)
+- `giurisprudenza/` – schede sentenze (modello in `templates/scheda-sentenza.md`)
+- `templates/schema-capitolo.md` – modello da usare per ogni nuovo schema
+- `glossario.md`, `risorse/link-utili.md`
+- Nei file usare i marcatori **[Mattarella]** e **[Altre fonti]** per distinguere la provenienza.
+- Aggiornare la checklist "Stato" nel README quando si completa uno schema.
