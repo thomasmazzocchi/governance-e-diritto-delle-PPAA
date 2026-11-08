@@ -58,10 +58,10 @@ libro di finanza.
 
 ## Stato dei lavori
 
-Schemi già creati su claude.ai (Claude Docs, non apribili da Claude Code):
-- Cap. 1 – Le funzioni amministrative
-- Cap. 2 – Il diritto amministrativo
-- Cap. 4 – Le fonti
+Schemi completi nella repo (`parte-base/`), approvati e da usare come riferimento di stile:
+- `cap-01-funzioni-amministrative.md`
+- `cap-02-diritto-amministrativo.md`
+- `cap-04-fonti.md`
 
 **Prossimi schemi da fare**: 8.5 principi costituzionali e 14.4 interesse legittimo, poi cap. 15
 (procedimento), 16-17 (provvedimento), 7.4 (accesso), 19 (responsabilità), 20 (tutele).
@@ -129,10 +129,19 @@ Per il resto, segnalare sempre che il contenuto va confrontato con il libro.
 
 ## Struttura della repo
 
-- `parte-base/` – un file per tema del programma, in ordine di programma (01-09)
+- `parte-base/` – uno schema per capitolo o paragrafo del Mattarella: `cap-NN-titolo.md` o `par-NN.N-titolo.md`
 - `parte-avanzata/` – materiali indicati dal professore (servizi pubblici, digitale, patto di stabilità)
-- `giurisprudenza/` – schede sentenze (modello in `templates/scheda-sentenza.md`)
-- `templates/schema-capitolo.md` – modello da usare per ogni nuovo schema
+- `giurisprudenza/` – schede sentenze (`templates/scheda-sentenza.md`)
 - `glossario.md`, `risorse/link-utili.md`
-- Nei file usare i marcatori **[Mattarella]** e **[Altre fonti]** per distinguere la provenienza.
-- Aggiornare la checklist "Stato" nel README quando si completa uno schema.
+
+## Formato degli schemi (obbligatorio)
+
+I nuovi schemi devono seguire **lo stesso formato dei cap. 1, 2 e 4** (modello in `templates/schema-capitolo.md`):
+- Titolo `# Cap. N – Titolo (Mattarella)`, poi un paragrafo introduttivo che dichiara da dove viene il
+  contenuto (testo di Mattarella o fonti esterne da confrontare con il libro, con le pagine).
+- Una sezione `## N.x` per ogni paragrafo del libro, con i titoli del libro; si apre con una frase che
+  dice la tesi, poi elenco puntato con **concetto in grassetto.** seguito dalla spiegazione e dalle norme.
+- Tabelle per i confronti; note "Verifica sul libro..." dove il contenuto non viene dal testo.
+- Alla fine: `## Domande di verifica` (3-5 numerate), checkbox `- [ ] Leggere ... sul libro`, `## Fonti`
+  con link affidabili (normativa ufficiale, Corte costituzionale, EUR-Lex, materiali universitari).
+- Quando si completa uno schema, aggiornare la tabella del README.
