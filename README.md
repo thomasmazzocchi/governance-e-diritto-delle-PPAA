@@ -53,6 +53,7 @@ In `.claude/skills/`, si richiamano dalla chat di Claude Code:
 | `/nuovo-schema` | Scrive uno schema nel formato della repo e aggiorna README e glossario | `/nuovo-schema servizi pubblici, cap. VII digitale` |
 | `/interrogazione` | Simula l'orale: una domanda alla volta, approfondimenti, voto indicativo | `/interrogazione cap-20` · `/interrogazione tutto 8` |
 | `/quiz` | Quiz misto corretto, errori salvati in `verifiche/errori.md` | `/quiz cap-16` · `/quiz errori` |
+| `/glossario` | Aggiunge al glossario sigle e termini degli schemi, con rimando allo schema | `/glossario cap-19` · `/glossario tutto` |
 | `/flashcard` | Carte importabili in Anki, salvate in `flashcard/` | `/flashcard cap-15` · `/flashcard tutto` |
 
 ## Altro

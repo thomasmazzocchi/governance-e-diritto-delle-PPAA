@@ -139,7 +139,7 @@ Per il resto, segnalare sempre che il contenuto va confrontato con il libro.
 - `glossario.md`, `risorse/link-utili.md`
 - `verifiche/` – fact-check e `errori.md` (registro errori di quiz e interrogazioni)
 - `flashcard/` – carte Anki generate dagli schemi
-- `.claude/skills/` – skill di studio: `nuovo-schema`, `interrogazione`, `quiz`, `flashcard`
+- `.claude/skills/` – skill di studio: `nuovo-schema`, `interrogazione`, `quiz`, `flashcard`, `glossario`
 
 ## Formato degli schemi (obbligatorio)
 
