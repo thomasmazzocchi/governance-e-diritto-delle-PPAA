@@ -5,7 +5,7 @@
 
 ## Chi sono e cosa sto facendo
 
-- Mi chiamo Thomas, lavoro full time e studio da non frequentante.
+- Sono uno studente, lavoro full time e studio da non frequentante.
 - Esame: **7 gennaio 2027**.
 - Testo principale: **B.G. Mattarella, *Lezioni di diritto amministrativo*, Giappichelli, terza edizione**.
 - Voglio studiare **strettamente** i temi del programma, senza capitoli extra.
