@@ -59,7 +59,7 @@ libro di finanza.
 ## Stato dei lavori
 
 Schemi completi nella repo (`parte-base/`). I cap. 1, 2 e 4 sono il riferimento di stile.
-Tutta la parte base è coperta: 8.5, 14.4, 15, 16, 17, 7.4, 19, 20.
+Tutta la parte base è coperta: 8.5, 14.4, 15, 16, 17, 7.4, 19, 20. Fatto anche il facoltativo 7.5 (amministrazione digitale, con la L. 132/2025 sull'IA).
 I titoli dei paragrafi seguono l'indice della 1ª edizione (2018), trovato online e salvato in
 `risorse/indice-mattarella-1a-ed.md`; le pagine coincidono quasi con la 3ª. Della 1ª e 2ª edizione
 online c'è solo l'indice (1ª) e lo stesso estratto del cap. 1 (2ª), non il testo degli altri capitoli.

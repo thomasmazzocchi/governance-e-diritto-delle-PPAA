@@ -21,7 +21,7 @@ Uno schema per capitolo (o paragrafo) del Mattarella, tutti sul modello [`templa
 I titoli dei paragrafi seguono l'[indice della 1ª edizione](risorse/indice-mattarella-1a-ed.md), che ha quasi le stesse pagine della 3ª: confrontali con il sommario della tua copia. Ogni schema ha esempi concreti nei riquadri **"Nel mondo reale"**, che non vengono dal libro.
 
 Fuori programma ma già fatto: [Cap. 2 – Il diritto amministrativo](parte-base/cap-02-diritto-amministrativo.md).
-Facoltativi: 7.5 amministrazione digitale (95-98), 6.7 amministrazioni ultrastatali (81-84).
+Facoltativi: [7.5 amministrazione digitale (95-98)](parte-base/par-07.5-amministrazione-digitale.md) ✅ (include L. 132/2025 sull'IA) · 6.7 amministrazioni ultrastatali (81-84).
 
 **Prossimo passo:** parte avanzata (servizi pubblici, dal 10 novembre).
 

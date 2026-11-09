@@ -1,0 +1,27 @@
+#separator:tab
+#html:true
+#tags column:3
+Quali sono le tre funzioni del procedimento amministrativo?	Garantisce i privati (partecipazione), migliora la decisione (più informazioni), permette il controllo del giudice.	cap-15 procedimento definizione
+Art. 29 L. 241/1990: a chi si applica direttamente la legge?	Ad amministrazioni statali ed enti pubblici nazionali. Regioni ed enti locali hanno norme proprie, ma non possono ridurre le garanzie che sono <b>livelli essenziali</b> (art. 117, c. 2, lett. m, Cost.).	cap-15 procedimento norma
+Divieto di aggravamento del procedimento: dove è previsto e cosa dice?	Art. 1, c. 2, L. 241/1990: non si può aggravare il procedimento se non per straordinarie e motivate esigenze istruttorie.	cap-15 procedimento norma
+Quale riforma ha introdotto il danno da ritardo (art. 2-bis)?	L. 69/2009.	cap-15 procedimento numero
+Che cosa ha introdotto il D.L. 76/2020 nella L. 241/1990?	Inefficacia degli atti tardivi (art. 2, c. 8-bis) e preavviso di rigetto che <b>sospende</b> i termini.	cap-15 procedimento norma
+Quali sono le quattro fasi del procedimento?	Iniziativa, istruttoria, decisoria, integrativa dell'efficacia.	cap-15 procedimento definizione
+Chi nomina il responsabile del procedimento? (artt. 4-5)	Il dirigente dell'unità organizzativa competente, che assegna a sé o a un dipendente la responsabilità; il nome va comunicato agli interessati.	cap-15 procedimento norma
+Conflitto di interessi nel procedimento: quale articolo?	Art. 6-bis L. 241/1990: responsabile e chi adotta pareri e provvedimenti si astengono, anche per conflitto potenziale.	cap-15 procedimento norma
+Comunicazione di avvio del procedimento: a chi va data? (artt. 7-8)	Ai destinatari, a chi deve intervenire per legge e a chi può subire un pregiudizio. Indica oggetto, ufficio, responsabile, termini.	cap-15 procedimento norma
+Chi può intervenire nel procedimento? (art. 9)	Portatori di interessi pubblici o privati e associazioni o comitati portatori di interessi diffusi, se il provvedimento può recare loro pregiudizio.	cap-15 procedimento norma
+Preavviso di rigetto: articolo e termine per le osservazioni	Art. 10-bis L. 241/1990: <b>10 giorni</b>. Sospende i termini del procedimento.	cap-15 procedimento numero
+Preavviso di rigetto: che cosa succede se il diniego viene annullato?	L'amministrazione non può addurre nel nuovo provvedimento motivi che emergevano già dall'istruttoria.	cap-15 procedimento norma
+In quali procedimenti non si applicano le norme sulla partecipazione? (art. 13)	Atti normativi, amministrativi generali, di pianificazione e programmazione; procedimenti tributari.	cap-15 procedimento norma
+Conferenza di servizi semplificata vs simultanea	Semplificata: asincrona, per scambio telematico, è la regola (art. 14-bis). Simultanea: riunione nei casi complessi (art. 14-ter). Chi non risponde in tempo si considera d'accordo.	cap-15 procedimento differenza
+Entro quanto vanno resi i pareri obbligatori? (art. 16)	<b>20 giorni</b>; poi si procede, salvo per le amministrazioni che tutelano ambiente, paesaggio, territorio e salute.	cap-15 procedimento numero
+Termine generale di conclusione del procedimento	<b>30 giorni</b> (art. 2, c. 2), per amministrazioni statali ed enti nazionali, se non diversamente previsto. Fino a 90 con regolamento, 180 per procedimenti complessi.	cap-15 procedimento numero
+Potere sostitutivo: entro quanto deve concludere il sostituto?	In un termine pari alla <b>metà</b> di quello originario (art. 2, c. 9-ter).	cap-15 procedimento numero
+Indennizzo da mero ritardo: importo e condizione	30 euro al giorno, fino a 2.000 euro; l'interessato deve attivare il potere sostitutivo entro 20 giorni dalla scadenza (art. 28 D.L. 69/2013).	cap-15 procedimento numero
+Ricorso contro il silenzio: norme e termine	Artt. 31 e 117 c.p.a.: finché dura l'inadempimento, comunque entro <b>1 anno</b> dalla scadenza del termine.	cap-15 procedimento numero
+Motivazione del provvedimento: articolo e contenuto	Art. 3 L. 241/1990: presupposti di fatto e ragioni giuridiche, in relazione alle risultanze dell'istruttoria. Non serve per atti normativi e generali.	cap-15 procedimento norma
+Silenzio assenso: articolo e materie escluse	Art. 20 L. 241/1990. Esclusi: patrimonio culturale e paesaggio, ambiente, difesa, sicurezza, immigrazione, asilo e cittadinanza, salute, casi in cui il diritto UE chiede un atto formale.	cap-15 procedimento norma
+SCIA: entro quanto l'amministrazione può vietare l'attività?	<b>60 giorni</b> (30 in edilizia); dopo, solo alle condizioni dell'annullamento d'ufficio (art. 19 L. 241/1990).	cap-15 procedimento numero
+SCIA vs silenzio assenso	SCIA: il privato segnala e inizia subito, manca il provvedimento. Silenzio assenso: il privato chiede e il silenzio vale accoglimento.	cap-15 procedimento differenza
+Autocertificazione: norme	Art. 18 L. 241/1990 e d.P.R. 445/2000: il cittadino dichiara stati e fatti; la PA acquisisce d'ufficio i documenti che ha già.	cap-15 procedimento norma
