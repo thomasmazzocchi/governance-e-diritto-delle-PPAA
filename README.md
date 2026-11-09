@@ -44,5 +44,16 @@ Facoltativi: 7.5 amministrazione digitale (95-98), 6.7 amministrazioni ultrastat
 | 1-14 dic | Cap. I e V digitale, poi patto di stabilità |
 | 15 dic - 6 gen | Ripasso: schemi, quiz, ripasso a voce |
 
+## Skill di Claude Code
+
+In `.claude/skills/`, si richiamano dalla chat di Claude Code:
+
+| Comando | A cosa serve | Esempio |
+|---|---|---|
+| `/nuovo-schema` | Scrive uno schema nel formato della repo e aggiorna README e glossario | `/nuovo-schema servizi pubblici, cap. VII digitale` |
+| `/interrogazione` | Simula l'orale: una domanda alla volta, approfondimenti, voto indicativo | `/interrogazione cap-20` · `/interrogazione tutto 8` |
+| `/quiz` | Quiz misto corretto, errori salvati in `verifiche/errori.md` | `/quiz cap-16` · `/quiz errori` |
+| `/flashcard` | Carte importabili in Anki, salvate in `flashcard/` | `/flashcard cap-15` · `/flashcard tutto` |
+
 ## Altro
 [Verifica dei fatti, 8/11/2026](verifiche/parte-base-factcheck-2026-11-08.md) · [Indice Mattarella 1ª ed.](risorse/indice-mattarella-1a-ed.md) · [Glossario](glossario.md) · [Link utili](risorse/link-utili.md) · [Giurisprudenza](giurisprudenza/) · [Modelli](templates/)

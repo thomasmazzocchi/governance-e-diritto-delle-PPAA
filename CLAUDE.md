@@ -137,6 +137,9 @@ Per il resto, segnalare sempre che il contenuto va confrontato con il libro.
 - `parte-avanzata/` – materiali indicati dal professore (servizi pubblici, digitale, patto di stabilità)
 - `giurisprudenza/` – schede sentenze (`templates/scheda-sentenza.md`)
 - `glossario.md`, `risorse/link-utili.md`
+- `verifiche/` – fact-check e `errori.md` (registro errori di quiz e interrogazioni)
+- `flashcard/` – carte Anki generate dagli schemi
+- `.claude/skills/` – skill di studio: `nuovo-schema`, `interrogazione`, `quiz`, `flashcard`
 
 ## Formato degli schemi (obbligatorio)
 
