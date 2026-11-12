@@ -29,11 +29,11 @@ Facoltativi: 7.5 amministrazione digitale (95-98), 6.7 amministrazioni ultrastat
 
 | Materiale | Cosa | Priorità | Schema |
 |---|---|---|---|
-| *Appunti di Finanza e Costituzione* | Seconda parte: servizi pubblici | Alta | [servizi pubblici](parte-avanzata/servizi-pubblici.md) |
-| Libro diritto amministrazione digitale (da confermare) | Cap. VII, I, V | Alta | [digitale](parte-avanzata/amministrazione-digitale.md) |
-| *Appunti di Finanza e Costituzione* | Patto di stabilità | Bassa | [patto](parte-avanzata/patto-di-stabilita.md) |
+| Nicodemo, *Appunti su finanza pubblica e Costituzione*, Cacucci 2024 | Seconda parte: servizi pubblici | Alta | [servizi pubblici](parte-avanzata/servizi-pubblici.md) |
+| Cavallo Perin – Galetta, *Il diritto dell'amministrazione pubblica digitale*, Giappichelli 2025 | Cap. VII, I, V | Alta | [digitale](parte-avanzata/amministrazione-digitale.md) |
+| Nicodemo (stesso libro) | Patto di stabilità | Bassa | [patto](parte-avanzata/patto-di-stabilita.md) |
 
-❓ Da chiarire col professore: autore/edizione del libro sul digitale; inizio della seconda parte del libro di finanza.
+✅ Testi confermati dalla professoressa. ❓ Da verificare sulla copia: inizio della seconda parte del Nicodemo; titoli dei cap. I, V e VII del Cavallo Perin – Galetta (2ª ed. 2025, indice diverso dalla 1ª del 2020).
 
 ## Calendario
 
