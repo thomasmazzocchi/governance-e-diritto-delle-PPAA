@@ -43,11 +43,16 @@ Indice completo del libro: Parte I Nozioni generali (cap. 1-4), Parte II La pubb
 | R. Cavallo Perin, D.-U. Galetta (a cura di), *Il diritto dell'amministrazione pubblica digitale*, Giappichelli, 2025 (2ª ed.) | Cap. VII (servizi pubblici), cap. I e V | Alta |
 | Nicodemo, *Appunti su finanza pubblica e Costituzione* | Patto di stabilità | Bassa, "non essenziale" |
 
-**Testi confermati dalla professoressa** (risposta alla mail, firmata "SN"). Ancora da verificare sulla
-copia: dove inizia la seconda parte del Nicodemo e i titoli dei cap. I, V e VII del Cavallo Perin - Galetta
-2025 (la 1ª ed. del 2020 ha un indice diverso; il cap. V della 2ª ed. sembra essere "atti e procedimenti
-amministrativi digitali", Cavallo Perin e Alberti). Gli indici ufficiali (giappichelli.it, cacuccieditore.it)
-non sono raggiungibili da questo ambiente: servono foto o trascrizione dell'indice.
+**Testi confermati dalla professoressa** (risposta alla mail, firmata "SN"). Indice del Nicodemo trascritto
+in `risorse/indice-nicodemo-2024.md`: il libro ha cinque parti senza numero di capitolo; la "seconda parte"
+sui servizi pubblici è "La gestione dei servizi pubblici: i livelli di governo e la partecipazione dei
+cittadini" (§§ 1-18, pp. 161-230). Il patto di stabilità compare come PSC (pp. 31-36, 58-65) e come patto
+di stabilità interno (pp. 139-150). Manca ancora l'indice del Cavallo Perin - Galetta 2025 (cap. I, V, VII;
+la 1ª ed. del 2020 ha un indice diverso). Gli indici ufficiali (giappichelli.it, cacuccieditore.it) non sono
+raggiungibili da questo ambiente: servono foto dell'indice.
+
+Gli schemi della parte avanzata seguono lo stesso formato, con titolo `# Nicodemo – Titolo della parte` e
+una sezione `## N.` per ogni paragrafo del libro.
 
 ## Calendario
 
@@ -70,7 +75,9 @@ Il cap. 19 include la riforma della responsabilità erariale (L. 1/2026), succes
 Novità successive al libro già integrate: annullamento d'ufficio 6 mesi (L. 182/2025), ricorso
 straordinario al Presidente del Consiglio di Stato (D.L. 19/2026), scudo erariale scaduto il 31/12/2025.
 
-**Prossimo**: parte avanzata (servizi pubblici).
+Parte avanzata: schema dei servizi pubblici del Nicodemo fatto (`parte-avanzata/servizi-pubblici.md`).
+
+**Prossimo**: cap. VII del Cavallo Perin - Galetta (serve l'indice), poi cap. I e V.
 
 Metodo usato negli schemi: un paragrafo per sezione del libro, tabelle per confronti, domande di
 verifica alla fine, fonti affidabili linkate. Il testo del Mattarella online è disponibile solo
