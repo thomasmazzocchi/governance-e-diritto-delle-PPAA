@@ -29,11 +29,11 @@ Facoltativi: 7.5 amministrazione digitale (95-98), 6.7 amministrazioni ultrastat
 
 | Materiale | Cosa | Priorità | Schema |
 |---|---|---|---|
-| Nicodemo, *Appunti su finanza pubblica e Costituzione*, Cacucci 2024 | Seconda parte: servizi pubblici | Alta | [servizi pubblici](parte-avanzata/servizi-pubblici.md) |
+| Nicodemo, *Appunti su finanza pubblica e Costituzione*, Cacucci 2024 | "La gestione dei servizi pubblici" (pp. 161-230) | Alta | [servizi pubblici](parte-avanzata/servizi-pubblici.md) ✅ (da confrontare con il libro) |
 | Cavallo Perin – Galetta, *Il diritto dell'amministrazione pubblica digitale*, Giappichelli 2025 | Cap. VII, I, V | Alta | [digitale](parte-avanzata/amministrazione-digitale.md) |
-| Nicodemo (stesso libro) | Patto di stabilità | Bassa | [patto](parte-avanzata/patto-di-stabilita.md) |
+| Nicodemo (stesso libro) | Patto di stabilità: PSC (pp. 31-36, 58-65) o PSI (pp. 139-150) | Bassa | [patto](parte-avanzata/patto-di-stabilita.md) |
 
-✅ Testi confermati dalla professoressa. ❓ Da verificare sulla copia: inizio della seconda parte del Nicodemo; titoli dei cap. I, V e VII del Cavallo Perin – Galetta (2ª ed. 2025, indice diverso dalla 1ª del 2020).
+✅ Testi confermati dalla professoressa. [Indice del Nicodemo](risorse/indice-nicodemo-2024.md) trascritto. ❓ Manca l'indice del Cavallo Perin – Galetta (2ª ed. 2025) per i cap. I, V e VII.
 
 ## Calendario
 
@@ -45,4 +45,4 @@ Facoltativi: 7.5 amministrazione digitale (95-98), 6.7 amministrazioni ultrastat
 | 15 dic - 6 gen | Ripasso: schemi, quiz, ripasso a voce |
 
 ## Altro
-[Verifica dei fatti, 8/11/2026](verifiche/parte-base-factcheck-2026-11-08.md) · [Indice Mattarella 1ª ed.](risorse/indice-mattarella-1a-ed.md) · [Glossario](glossario.md) · [Link utili](risorse/link-utili.md) · [Giurisprudenza](giurisprudenza/) · [Modelli](templates/)
+[Verifica dei fatti, 8/11/2026](verifiche/parte-base-factcheck-2026-11-08.md) · [Indice Mattarella 1ª ed.](risorse/indice-mattarella-1a-ed.md) · [Indice Nicodemo](risorse/indice-nicodemo-2024.md) · [Glossario](glossario.md) · [Link utili](risorse/link-utili.md) · [Giurisprudenza](giurisprudenza/) · [Modelli](templates/)
