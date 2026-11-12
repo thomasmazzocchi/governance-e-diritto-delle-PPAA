@@ -39,13 +39,15 @@ Indice completo del libro: Parte I Nozioni generali (cap. 1-4), Parte II La pubb
 
 | Materiale | Cosa studiare | Priorità |
 |---|---|---|
-| "Appunti di Finanza e Costituzione" (probabilmente S. Nicodemo, *Appunti su finanza pubblica e Costituzione*) | Seconda parte, sui servizi pubblici | Alta |
-| Libro sul diritto dell'amministrazione digitale (forse Cavallo Perin - Galetta, *Il diritto dell'amministrazione pubblica digitale*, Giappichelli, da confermare) | Cap. VII (servizi pubblici), cap. I e V | Alta |
-| "Appunti di Finanza e Costituzione" | Patto di stabilità | Bassa, "non essenziale" |
+| S. Nicodemo, *Appunti su finanza pubblica e Costituzione*, Cacucci, Bari, 2024 (2ª ed.) | Seconda parte, sui servizi pubblici | Alta |
+| R. Cavallo Perin, D.-U. Galetta (a cura di), *Il diritto dell'amministrazione pubblica digitale*, Giappichelli, 2025 (2ª ed.) | Cap. VII (servizi pubblici), cap. I e V | Alta |
+| Nicodemo, *Appunti su finanza pubblica e Costituzione* | Patto di stabilità | Bassa, "non essenziale" |
 
-**Da chiarire con il professore** (bozza di mail già preparata): autore ed edizione del libro sul
-digitale (la numerazione dei capitoli cambia tra le edizioni) e da dove inizia la seconda parte del
-libro di finanza.
+**Testi confermati dalla professoressa** (risposta alla mail, firmata "SN"). Ancora da verificare sulla
+copia: dove inizia la seconda parte del Nicodemo e i titoli dei cap. I, V e VII del Cavallo Perin - Galetta
+2025 (la 1ª ed. del 2020 ha un indice diverso; il cap. V della 2ª ed. sembra essere "atti e procedimenti
+amministrativi digitali", Cavallo Perin e Alberti). Gli indici ufficiali (giappichelli.it, cacuccieditore.it)
+non sono raggiungibili da questo ambiente: servono foto o trascrizione dell'indice.
 
 ## Calendario
 
