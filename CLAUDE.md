@@ -47,7 +47,7 @@ Indice completo del libro: Parte I Nozioni generali (cap. 1-4), Parte II La pubb
 in `risorse/indice-nicodemo-2024.md`: il libro ha cinque parti senza numero di capitolo; la "seconda parte"
 sui servizi pubblici è "La gestione dei servizi pubblici: i livelli di governo e la partecipazione dei
 cittadini" (§§ 1-18, pp. 161-230). Il patto di stabilità compare come PSC (pp. 31-36, 58-65) e come patto
-di stabilità interno (pp. 139-150). Indice del Cavallo Perin - Galetta 2025 trascritto (fino al cap. IX)
+di stabilità interno (pp. 139-150). Indice del Cavallo Perin - Galetta 2025 trascritto per intero (cap. I-XVIII)
 in `risorse/indice-cavallo-perin-galetta-2025.md`: cap. I Simoncini, "Amministrazione digitale algoritmica.
 Il quadro costituzionale" (pp. 1-36); cap. V Cavallo Perin e Alberti, "Atti e procedimenti amministrativi
 digitali" (pp. 137-176); cap. VII Cavallo Perin e Jacod, "I servizi pubblici con intelligenza artificiale"
@@ -79,9 +79,11 @@ Novità successive al libro già integrate: annullamento d'ufficio 6 mesi (L. 18
 straordinario al Presidente del Consiglio di Stato (D.L. 19/2026), scudo erariale scaduto il 31/12/2025.
 
 Parte avanzata: fatti gli schemi dei servizi pubblici del Nicodemo (`parte-avanzata/servizi-pubblici.md`)
-e del cap. VII del Cavallo Perin - Galetta (`parte-avanzata/cap-VII-servizi-pubblici-ia.md`).
+e dei cap. VII, I e V del Cavallo Perin - Galetta (`parte-avanzata/cap-VII-servizi-pubblici-ia.md`,
+`cap-I-amministrazione-algoritmica.md`, `cap-V-atti-procedimenti-digitali.md`). I cap. I e V sono stati fatti
+in anticipo (13/11/2026) rispetto al calendario.
 
-**Prossimo**: cap. I e V del Cavallo Perin - Galetta (periodo 1-14 dicembre).
+**Prossimo**: patto di stabilità (priorità bassa; partire dal PSI, pp. 139-150), oppure quiz di ripasso.
 
 Metodo usato negli schemi: un paragrafo per sezione del libro, tabelle per confronti, domande di
 verifica alla fine, fonti affidabili linkate. Il testo del Mattarella online è disponibile solo
