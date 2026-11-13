@@ -59,7 +59,7 @@ Trascritto dalle foto della copia dello studente (12/11/2026). Il libro non ha c
 | 13 | La spending review | 119 |
 | 14 | La Riforma del quadro di revisione della spesa pubblica nel PNRR | 124 |
 
-Nota: nella foto la colonna delle pagine di questa parte è leggermente sfalsata; le pagine sono state assegnate in ordine. Controllale sulla copia.
+Nota: nella foto la colonna delle pagine di questa parte è leggermente sfalsata, ma i numeri sono 14 come i paragrafi e crescono in ordine: l'assegnazione è corretta (ricontrollata sulle foto il 13/11/2026). Nel libro il titolo del § 11 dice per refuso "Piano nazionale di *Resistenza* e Resilienza".
 
 ## La finanza locale
 
@@ -104,7 +104,7 @@ Nota: nella foto la colonna delle pagine di questa parte è leggermente sfalsata
 | 17 | I mezzi di gestione dei servizi sociali | 227 |
 | 18 | Il rapporto dell'ente locale con il soggetto gestore del servizio pubblico | 230 |
 
-Nota: nella foto la colonna delle pagine dei §§ 11-18 è sfalsata. Le dieci pagine (210, 210, 211, 215, 218, 222, 227, 230, 235, 239) sono state assegnate in ordine a §§ 11-18, Conclusioni e Bibliografia: da controllare sulla copia.
+Nota: nella foto la colonna delle pagine dei §§ 11-18 è sfalsata. Le dieci pagine (210, 210, 211, 215, 218, 222, 227, 230, 235, 239) sono state assegnate in ordine a §§ 11-18, Conclusioni e Bibliografia; i primi numeri sono allineati ai §§ 11-13, quindi l'assegnazione è corretta (ricontrollata sulle foto il 13/11/2026). La parte va da p. 161 a p. 234: il § 18 inizia a p. 230.
 
 Sulla copia ci sono segni a matita che dividono questa parte in blocchi: §§ 1-4, 4-6.2, 6.3-10, 11-14, 14-18.
 

@@ -46,7 +46,7 @@ Indice completo del libro: Parte I Nozioni generali (cap. 1-4), Parte II La pubb
 **Testi confermati dalla professoressa** (risposta alla mail, firmata "SN"). Indice del Nicodemo trascritto
 in `risorse/indice-nicodemo-2024.md`: il libro ha cinque parti senza numero di capitolo; la "seconda parte"
 sui servizi pubblici è "La gestione dei servizi pubblici: i livelli di governo e la partecipazione dei
-cittadini" (§§ 1-18, pp. 161-230). Il patto di stabilità compare come PSC (pp. 31-36, 58-65) e come patto
+cittadini" (§§ 1-18, pp. 161-234). Il patto di stabilità compare come PSC (pp. 31-36, 58-65) e come patto
 di stabilità interno (pp. 139-150). Indice del Cavallo Perin - Galetta 2025 trascritto per intero (cap. I-XVIII)
 in `risorse/indice-cavallo-perin-galetta-2025.md`: cap. I Simoncini, "Amministrazione digitale algoritmica.
 Il quadro costituzionale" (pp. 1-36); cap. V Cavallo Perin e Alberti, "Atti e procedimenti amministrativi
@@ -82,6 +82,11 @@ Parte avanzata: fatti gli schemi dei servizi pubblici del Nicodemo (`parte-avanz
 e dei cap. VII, I e V del Cavallo Perin - Galetta (`parte-avanzata/cap-VII-servizi-pubblici-ia.md`,
 `cap-I-amministrazione-algoritmica.md`, `cap-V-atti-procedimenti-digitali.md`). I cap. I e V sono stati fatti
 in anticipo (13/11/2026) rispetto al calendario.
+Il testo della 1ª edizione dei cap. I e V è online (link negli schemi): gli schemi sono stati verificati lì
+(`verifiche/digitale-cap-I-V-factcheck-2026-11-13.md`); i punti controllati sono segnati "(dal testo, 1ª ed.)".
+Il testo del cap. VII nella 2ª ed. è online (sito di R. Cavallo Perin, link nello schema): lo schema è stato
+riscritto e verificato lì. La parte del Nicodemo è verificata solo su fonti esterne (online c'è solo l'indice);
+resta da chiarire la sigla "LEPAS". Resoconto: `verifiche/servizi-pubblici-cap-VII-factcheck-2026-11-13.md`.
 
 **Prossimo**: patto di stabilità (priorità bassa; partire dal PSI, pp. 139-150), oppure quiz di ripasso.
 

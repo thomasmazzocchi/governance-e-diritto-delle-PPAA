@@ -1,6 +1,6 @@
 # Cavallo Perin – Galetta, cap. I – Amministrazione digitale *algoritmica*. Il quadro costituzionale
 
-Schema del cap. I di R. Cavallo Perin, D.-U. Galetta (a cura di), *Il diritto dell'amministrazione pubblica digitale*, Giappichelli, 2ª ed. 2025, pp. 1-36, di **Andrea Simoncini** ([indice](../risorse/indice-cavallo-perin-galetta-2025.md)). Il testo del capitolo non è disponibile online: **i titoli dei paragrafi vengono dall'indice della tua copia; il contenuto viene da fonti esterne** (Costituzione, GDPR, AI Act, L. 132/2025, sentenze del TAR Lazio, del Consiglio di Stato e della Corte di giustizia) e dalle tesi che Simoncini ha pubblicato in altri scritti (es. *L'algoritmo incostituzionale*, BioLaw Journal, 2019). Va confrontato con il libro, soprattutto per i casi citati nel par. 3. Gli esempi nei riquadri "Nel mondo reale" non vengono dal libro.
+Schema del cap. I di R. Cavallo Perin, D.-U. Galetta (a cura di), *Il diritto dell'amministrazione pubblica digitale*, Giappichelli, 2ª ed. 2025, pp. 1-36, di **Andrea Simoncini** ([indice](../risorse/indice-cavallo-perin-galetta-2025.md)). **I titoli dei paragrafi vengono dall'indice della tua copia.** Il testo del capitolo nella **1ª edizione** (stessi titoli, casi fino al 2020) è nell'[archivio dell'Università di Firenze](https://flore.unifi.it/retrieve/e398c380-62a9-179a-e053-3705fe0a4cff/Amministrazione%20digitale%20algoritmica_.pdf): i punti segnati **(dal testo, 1ª ed.)** sono stati controllati lì il 13/11/2026. Il resto viene da fonti esterne (Costituzione, GDPR, AI Act, L. 132/2025, giurisprudenza) e va confrontato con la 2ª edizione, che può aggiungere casi e norme successivi al 2020 (AI Act, L. 132/2025). Gli esempi nei riquadri "Nel mondo reale" non vengono dal libro.
 
 **Collegamenti.** È il capitolo "costituzionale" della parte digitale: fissa i principi che il cap. V ([schema](cap-V-atti-procedimenti-digitali.md)) applica all'atto e al procedimento, e che il cap. VII ([schema](cap-VII-servizi-pubblici-ia.md)) applica ai servizi pubblici. Nel Mattarella si lega ai principi (par. 4.3 e 8.5), alla motivazione (cap. 16) e al procedimento (cap. 15).
 
@@ -41,20 +41,19 @@ In assenza di una legge generale sulle decisioni algoritmiche, sono stati i giud
 
 Quando la piattaforma telematica di una gara o di un concorso esclude automaticamente un candidato, il giudice deve stabilire se il "no" della macchina è un atto dell'amministrazione e chi ne risponde.
 
-- **Il problema.** Domande non caricate per un malfunzionamento del sistema, campi obbligatori che non accettano una risposta corretta, scadenze gestite al secondo dal server: il software applica le regole del bando in modo rigido, senza valutare il caso.
-- **La risposta dei giudici.** Il rischio del malfunzionamento della piattaforma non può ricadere sul partecipante che ha agito con diligenza: l'amministrazione resta responsabile del sistema che sceglie di usare, e se l'errore è del sistema il concorrente va riammesso (es. Cons. Stato, sez. III, sent. 86/2020, su una gara telematica di una ASL: se non si può stabilire se l'errore sia del concorrente o del sistema, il pregiudizio ricade sull'ente che gestisce la gara).
-- **Il principio.** Il software non può essere più rigido della norma: le regole del bando vanno applicate secondo i principi di proporzionalità e di favore per la partecipazione (*favor partecipationis*) e, dove previsto, con il soccorso istruttorio (art. 6, c. 1, lett. b, L. 241/1990; art. 101 d.lgs. 36/2023).
-
-Verifica sul libro quali casi cita Simoncini: la sentenza indicata qui è un esempio tipico, non necessariamente quella del testo.
+- **Il problema (dal testo, 1ª ed.).** Il bando impone di presentare la domanda solo tramite una piattaforma telematica; la piattaforma non funziona (la domanda non parte, non si può provare di averla inviata, non viene esaminata o viene cancellata) e il candidato resta escluso. L'esclusione non la decide un funzionario ma un automatismo, per di più malfunzionante.
+- **La risposta dei giudici (dal testo, 1ª ed.).** Quando l'amministrazione sceglie una tecnologia, questa diventa parte della sua organizzazione e l'amministrazione ne risponde: il privato non può subire conseguenze da malfunzionamenti che non dipendono da una sua negligenza. Il TAR Lazio (sez. III-bis, sent. 7406/2020) critica il sistema che, "a causa di meri malfunzionamenti tecnici", esercita "impersonalmente attività amministrativa sostanziale"; il Consiglio di Stato (sez. VI, sent. 3148/2020) afferma che le procedure informatiche devono stare in posizione "necessariamente servente" rispetto al procedimento.
+- **Il principio (dal testo, 1ª ed.).** Anche per attività vincolate deve restare possibile l'intervento umano, con "procedure amministrative parallele" di tipo tradizionale da attivare in caso di guasto. Dal soccorso procedimentale (artt. 6-10-bis L. 241/1990) deriva l'impossibilità di affidare un procedimento *esclusivamente* a un algoritmo, che per la sua rigidità non può "soccorrere" il privato.
+- **Un altro esempio (non dal testo).** Per le gare telematiche, Cons. Stato, sez. III, sent. 86/2020: se non si può stabilire se l'errore sia del concorrente o del sistema, il pregiudizio ricade sull'ente che gestisce la gara. Oggi il soccorso istruttorio nelle gare è all'art. 101 d.lgs. 36/2023.
 
 ### 3.2 Le decisioni algoritmiche riguardanti il personale della scuola
 
 È il caso guida: la mobilità dei docenti decisa da un algoritmo, da cui sono nati i principi della giurisprudenza amministrativa italiana.
 
 - **I fatti.** Con il piano straordinario di mobilità della L. 107/2015 ("Buona scuola") il Ministero affidò a un algoritmo l'assegnazione delle sedi; il sistema produsse assegnazioni illogiche (docenti mandati lontano mentre sedi richieste andavano a colleghi con punteggio inferiore).
-- **TAR Lazio.** Prima riconosce il diritto di accesso al **codice sorgente** dell'algoritmo, considerato atto amministrativo informatico (sez. III-bis, sent. 3769/2017); poi afferma che una procedura interamente affidata a un algoritmo, senza un funzionario che la governi, viola le garanzie della L. 241/1990 (sez. III-bis, sentt. 9224-9230 del 10 settembre 2018; la 9230 è quella poi decisa in appello dalla sent. 8472/2019).
-- **Consiglio di Stato, sez. VI, sent. 2270/2019.** L'automazione è ammessa, anzi utile per le procedure seriali, ma l'algoritmo è una **regola amministrativa** a tutti gli effetti: deve essere conoscibile in modo pieno, rispettare i principi di imparzialità, pubblicità e trasparenza, e il giudice deve poterla sindacare.
-- **Consiglio di Stato, sez. VI, sent. 8472/2019.** Ricava dal diritto europeo tre principi: **conoscibilità** (e comprensibilità), **non esclusività** della decisione algoritmica (art. 22 GDPR), **non discriminazione** algoritmica (considerando 71 GDPR). Ammette l'algoritmo anche per l'attività discrezionale.
+- **TAR Lazio.** Prima riconosce il diritto di accesso al **codice sorgente** dell'algoritmo, considerato atto amministrativo informatico, e distingue l'atto "in forma elettronica" (scritto al computer) dall'atto "ad elaborazione elettronica" (il cui contenuto è prodotto dal computer) (sez. III-bis, sent. 3769/2017); poi afferma che una procedura interamente affidata a un algoritmo, senza un funzionario che la governi, viola le garanzie della L. 241/1990 (sez. III-bis, sentt. 9224-9230 del 10 settembre 2018; la 9230 è quella poi decisa in appello dalla sent. 8472/2019). Per il TAR serve "l'attività dianoetica del funzionario", e le procedure informatiche non possono mai soppiantare l'attività cognitiva umana (artt. 3, 24, 97 Cost., art. 6 CEDU) (dal testo, 1ª ed.).
+- **Consiglio di Stato, sez. VI, sent. 2270/2019.** Riforma la decisione del TAR, che aveva respinto il ricorso dei docenti. L'automazione è ammessa, anzi utile per le procedure seriali, ma l'algoritmo è una **regola amministrativa** a tutti gli effetti: deve essere conoscibile in modo pieno, rispettare i principi di imparzialità, pubblicità e trasparenza, e il giudice deve poterla sindacare.
+- **Consiglio di Stato, sez. VI, sent. 8472/2019.** Ricava dal diritto europeo tre principi: **conoscibilità** (e comprensibilità), **non esclusività** della decisione algoritmica (art. 22 GDPR), **non discriminazione** algoritmica (considerando 71 GDPR). Ammette l'algoritmo anche per l'attività discrezionale. Stessa linea nelle sentt. 8473 e 8474/2019 e 881/2020 (dal testo, 1ª ed.).
 
 > **Nel mondo reale.** Il caso della scuola non è isolato. In Olanda il sistema SyRI, che incrociava dati per individuare possibili frodi nel welfare, fu dichiarato contrario all'art. 8 CEDU dal tribunale dell'Aia (5 febbraio 2020) perché opaco e concentrato sui quartieri poveri; lo scandalo dei sussidi per l'infanzia (*toeslagenaffaire*), in cui migliaia di famiglie furono trattate come frodatrici anche in base a profili di rischio, portò alle dimissioni del governo nel gennaio 2021.
 
@@ -63,10 +62,10 @@ Verifica sul libro quali casi cita Simoncini: la sentenza indicata qui è un ese
 Dai casi emerge che, quando una decisione passa per un software, a governare non è più solo la legge ma anche la tecnologia.
 
 - **Rule of law.** Il potere pubblico è sottoposto a regole generali, conoscibili, applicate da persone che ne rispondono e controllate da un giudice.
-- **Rule of technology.** Le regole effettive sono quelle scritte nel codice del programma (*code is law*, nella formula di Lessig): chi scrive il software decide in concreto, spesso senza base legale esplicita e senza che il destinatario possa capire perché.
-- **La tesi.** Il diritto non deve rinunciare a governare la tecnologia: serve una *rule of technology* costituzionalmente orientata, cioè sottoposta agli stessi principi che valgono per il potere pubblico (par. 4).
-
-Verifica sul libro la definizione di *rule of technology* data da Simoncini.
+- **Rule of technology (dal testo, 1ª ed.).** È la "trasfigurazione" della *rule of law*, "dalla legalità dell'amministrazione alla legalità della tecnologia": una serie di tutele "rafforzate e specifiche" per garantire gli stessi obiettivi (legalità, trasparenza, non discriminazione) davanti ad atti il cui contenuto è stabilito da processi di decisione automatizzata. L'hanno costruita i giudici tra la fine del 2019 e l'inizio del 2020.
+- **Le due "dottrine" del Consiglio di Stato (dal testo, 1ª ed.).** *Legalità algoritmica*: il singolo provvedimento automatizzato deve essere conforme alla regola algoritmica astratta, che ha natura di atto amministrativo informatico. *Trasparenza algoritmica*: trasparenza "rafforzata", cioè regola conoscibile e comprensibile (tradotta dal linguaggio macchina al linguaggio umano) e pieno sindacato del giudice.
+- **Il limite (dal testo, 1ª ed.).** Nel caso della scuola l'algoritmo faceva solo "calcoli" su regole predeterminate, senza discrezionalità: la *rule of technology* così costruita funziona per l'automazione della fase "deduttiva". I problemi veri nascono con gli algoritmi di apprendimento (par. 4).
+- **Un collegamento (non dal testo).** L'idea che le regole effettive siano quelle scritte nel codice è nota come *code is law* (L. Lessig).
 
 ## 4. Principi costituzionali e decisioni algoritmiche: verso una "*constitutional*" *rule of technology*
 
@@ -82,11 +81,13 @@ I principi che la giurisprudenza ha ricavato dai casi hanno fondamento costituzi
 
 Prima di applicare i principi bisogna chiedersi se l'esito prodotto dall'algoritmo sia un atto amministrativo, imputabile all'amministrazione.
 
+- **L'obiezione (dal testo, 1ª ed.).** Il TAR Lazio (2018) sembra dire che l'attività "impersonale" della macchina non sia vera "attività" amministrativa. Se l'atto giuridico è manifestazione di *volontà umana* (così la dottrina classica: Mortati, Zanobini), una decisione presa da un automatismo non sarebbe un atto ma un fatto.
+- **La risposta di Simoncini (dal testo, 1ª ed.).** Il diritto conosce già atti la cui volontà è imputata a soggetti che non sono persone fisiche (persone giuridiche, responsabilità degli enti ex d.lgs. 231/2001): il problema è l'imputazione, non la natura umana di chi materialmente decide.
 - **Sì, è un atto dell'amministrazione.** Il Consiglio di Stato (sent. 2270/2019) qualifica l'algoritmo come regola amministrativa e il suo esito come atto amministrativo informatico: l'amministrazione ne risponde come di qualunque altro provvedimento, ed è impugnabile.
 - **Perché conta.** Se l'esito fosse un semplice "fatto tecnico", sfuggirebbe alle garanzie della L. 241/1990 (responsabile del procedimento, partecipazione, motivazione) e al controllo del giudice.
 - **Imputazione e responsabilità.** Il programma non ha volontà propria: la decisione resta imputata all'organo che ha scelto di usarlo e che ne ha definito le regole (art. 14, c. 2, L. 132/2025: la persona resta "unica responsabile" dei provvedimenti).
 
-Verifica sul libro la risposta di Simoncini alla domanda del titolo (la parola "davvero" suggerisce una tesi problematica).
+Verifica sul libro (2ª ed.) la conclusione esatta del paragrafo.
 
 ### 4.2 Il divieto di atti di amministrazione digitale "esclusivamente" algoritmica
 
@@ -116,17 +117,17 @@ Anche un algoritmo corretto sul piano tecnico può discriminare, perché riprodu
 - **AI Act.** Per i sistemi ad alto rischio chiede dati di qualità e controlli sui possibili *bias* (art. 10); le amministrazioni che li usano devono fare una valutazione d'impatto sui diritti fondamentali (art. 27).
 - **La Corte di giustizia.** Nel caso *Ligue des droits humains* (C-817/19, 21 giugno 2022, sui dati dei passeggeri aerei) ha escluso l'uso di sistemi di autoapprendimento che modificano da soli i criteri di valutazione, perché opachi e difficili da controllare per evitare discriminazioni.
 
-> **Nel mondo reale.** Nel 2020, con gli esami annullati per la pandemia, il Regno Unito assegnò i voti di maturità (A-level) con un algoritmo che correggeva le valutazioni degli insegnanti in base ai risultati storici della scuola: gli studenti brillanti delle scuole meno prestigiose furono penalizzati. Dopo le proteste il governo ritirò i voti dell'algoritmo e tornò a quelli degli insegnanti.
+> **Nel mondo reale.** Nel 2020, con gli esami annullati per la pandemia, il Regno Unito assegnò i voti di maturità (A-level) con un algoritmo che correggeva le valutazioni degli insegnanti in base ai risultati storici della scuola: gli studenti brillanti delle scuole meno prestigiose furono penalizzati. Circa il 39% dei voti proposti dagli insegnanti fu abbassato. Dopo le proteste, il 17 agosto 2020 il governo cambiò linea: a ogni studente fu riconosciuto il voto più alto tra quello dell'insegnante e quello dell'algoritmo.
 
 ## 5. Spunti conclusivi. La dialettica "servo-padrone" nell'uso degli algoritmi
 
 L'algoritmo nasce come servo dell'amministrazione, ma rischia di diventarne il padrone se il funzionario si limita a ratificare ciò che la macchina propone.
 
-- **La dialettica servo-padrone.** Richiamo a Hegel: chi dipende dal lavoro del servo finisce per dipendere da lui. Allo stesso modo, un'amministrazione che non sa più decidere senza l'algoritmo perde il controllo della propria funzione.
-- **La cattura del decisore.** Anche quando la legge chiede un intervento umano, il funzionario tende a fidarsi del risultato della macchina (è più rapido, sembra oggettivo, contraddirlo espone a responsabilità): l'intervento umano diventa formale.
+- **La tecnologia "servente" (dal testo, 1ª ed.).** La giurisprudenza ripete che la tecnologia deve essere "servente" e l'uomo il "padrone" (*dominus*) del procedimento; Simoncini nota che anche la parola *robot* viene dal ceco "lavoro forzato". I principi di non esclusività e comprensibilità traducono in termini costituzionali questa destinazione servente.
+- **La dialettica servo-padrone (dal testo, 1ª ed.).** Hegel, nella *Fenomenologia dello spirito*, descrive il rapporto servo-padrone come dialettico. La "forza pratica" della tecnologia tende a rendere "servo" il padrone.
+- **La cattura del decisore (dal testo, 1ª ed.).** Quando un automatismo entra in un procedimento, tende a "catturare" la decisione: solleva il decisore dal peso dell'esame e della motivazione (*burden of motivation*) e rende molto difficile discostarsene. L'intervento umano rischia di diventare formale.
 - **La conclusione.** I principi del par. 4 servono a mantenere l'uomo "padrone": la tecnologia deve restare strumento al servizio della persona e dei principi costituzionali, non la fonte delle regole.
 
-Verifica sul libro la conclusione di Simoncini: è il punto più personale del capitolo.
 
 ---
 
@@ -138,7 +139,7 @@ Verifica sul libro la conclusione di Simoncini: è il punto più personale del c
 4. Spiega i tre principi della decisione algoritmica (non esclusività, conoscibilità e motivazione, non discriminazione) con il loro fondamento normativo.
 5. In che senso l'algoritmo può passare da "servo" a "padrone" dell'amministrazione?
 
-- [ ] Leggere il cap. I sul libro (pp. 1-36) e confrontarlo con questo schema, soprattutto i casi del par. 3.1 e le conclusioni del par. 5
+- [ ] Leggere il cap. I sul libro (pp. 1-36) e confrontarlo con questo schema, soprattutto le parti non segnate "dal testo" e le novità della 2ª edizione
 
 ## Fonti
 
@@ -151,4 +152,5 @@ Verifica sul libro la conclusione di Simoncini: è il punto più personale del c
 - [Corte di giustizia, C-634/21, SCHUFA (EUR-Lex)](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:62021CJ0634)
 - [Corte di giustizia, C-203/22, Dun & Bradstreet Austria (EUR-Lex)](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:62022CJ0203)
 - [Corte di giustizia, C-817/19, Ligue des droits humains (EUR-Lex)](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:62019CJ0817)
+- [A. Simoncini, *Amministrazione digitale algoritmica. Il quadro costituzionale*, 1ª ed. (Flore, Università di Firenze)](https://flore.unifi.it/retrieve/e398c380-62a9-179a-e053-3705fe0a4cff/Amministrazione%20digitale%20algoritmica_.pdf)
 - [A. Simoncini, *L'algoritmo incostituzionale: intelligenza artificiale e il futuro delle libertà*, BioLaw Journal, 2019](https://teseo.unitn.it/biolaw/article/view/1353)

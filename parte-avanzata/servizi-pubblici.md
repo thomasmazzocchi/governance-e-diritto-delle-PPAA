@@ -1,6 +1,6 @@
 # Nicodemo – La gestione dei servizi pubblici: i livelli di governo e la partecipazione dei cittadini
 
-Schema della parte sui servizi pubblici di S. Nicodemo, *Appunti su finanza pubblica e Costituzione*, Cacucci, 2024, pp. 161-230 ([indice](../risorse/indice-nicodemo-2024.md)). Il testo del libro non è disponibile online: **i titoli dei paragrafi vengono dall'indice della tua copia, il contenuto da fonti esterne** (Costituzione, leggi vigenti, Corte costituzionale, Corte di giustizia UE) e va confrontato con il libro. Gli esempi nei riquadri "Nel mondo reale" non vengono dal libro. Da studiare insieme al cap. VII del Cavallo Perin – Galetta (servizi pubblici e digitale), e collegato al Mattarella: cap. 1 (servizi pubblici economici tra le funzioni; art. 118 Cost.).
+Schema della parte sui servizi pubblici di S. Nicodemo, *Appunti su finanza pubblica e Costituzione*, Cacucci, 2024, pp. 161-234 ([indice](../risorse/indice-nicodemo-2024.md)). Il testo del libro non è disponibile online: **i titoli dei paragrafi vengono dall'indice della tua copia, il contenuto da fonti esterne** (Costituzione, leggi vigenti, Corte costituzionale, Corte di giustizia UE) e va confrontato con il libro. Gli esempi nei riquadri "Nel mondo reale" non vengono dal libro. Da studiare insieme al cap. VII del Cavallo Perin – Galetta (servizi pubblici e digitale), e collegato al Mattarella: cap. 1 (servizi pubblici economici tra le funzioni; art. 118 Cost.).
 
 **Il filo della parte.** Chi decide quali servizi garantire (livelli di governo e sussidiarietà) → quanto devono costare e quale livello minimo va assicurato ovunque (fabbisogni standard, LEP) → che cosa dice l'UE → come si gestiscono in concreto i servizi pubblici locali e i servizi sociali → come l'ente controlla il gestore e come partecipano i cittadini.
 
@@ -40,7 +40,7 @@ Le attività di interesse generale non sono un monopolio delle amministrazioni: 
 - **L'amministrazione condivisa.** La Corte costituzionale (sent. 131/2020) ha riconosciuto nell'art. 55 del Codice del Terzo settore (co-programmazione, co-progettazione, accreditamento) un modello alternativo a quello del mercato e del profitto, fondato sulla solidarietà e radicato nell'art. 118, c. 4, Cost. (vedi par. 16).
 - **Beni comuni.** Molti Comuni hanno regolamenti sulla collaborazione tra cittadini e amministrazione per la cura dei beni comuni urbani, attuati con "patti di collaborazione".
 
-> **Nel mondo reale.** Bologna nel 2014 è stato il primo Comune ad approvare un regolamento sulla collaborazione tra cittadini e amministrazione per la cura dei beni comuni urbani: un gruppo di residenti che vuole curare un giardino pubblico o ripulire un sottopasso firma un patto di collaborazione con il Comune, che fornisce materiali e assicurazione. Il modello è stato poi adottato da centinaia di Comuni.
+> **Nel mondo reale.** Bologna (delibera del Consiglio comunale 19 maggio 2014, n. 172) è stato il primo Comune ad approvare un regolamento sulla collaborazione tra cittadini e amministrazione per la cura dei beni comuni urbani: un gruppo di residenti che vuole curare un giardino pubblico o ripulire un sottopasso firma un patto di collaborazione con il Comune, che fornisce materiali e assicurazione. Il modello è stato poi adottato da centinaia di Comuni.
 
 ## 4. Le funzioni fondamentali degli enti locali
 
@@ -48,7 +48,7 @@ Le funzioni fondamentali sono il nucleo minimo di compiti che ogni Comune, Provi
 
 - **Art. 117, c. 2, lett. p), Cost.** Allo Stato spetta in via esclusiva la legislazione su organi di governo e **funzioni fondamentali** di Comuni, Province e Città metropolitane.
 - **L'elenco per i Comuni (art. 14, c. 27, D.L. 78/2010, come sostituito dal D.L. 95/2012).** Tra le altre: organizzazione generale dell'amministrazione e gestione finanziaria; organizzazione dei servizi pubblici di interesse generale di ambito comunale, compreso il trasporto pubblico comunale; catasto; pianificazione urbanistica ed edilizia; protezione civile; ciclo dei rifiuti; **sistema locale dei servizi sociali**; edilizia scolastica e servizi scolastici; polizia municipale; stato civile, anagrafe e servizi elettorali e statistici.
-- **Esercizio associato obbligatorio.** Per i Comuni fino a 5.000 abitanti (3.000 se montani) la legge ha previsto l'esercizio associato delle funzioni fondamentali, con continue proroghe; la Corte costituzionale (sent. 33/2019) ha dichiarato illegittimo l'obbligo nella parte in cui non permette al Comune di dimostrare che l'associazione non produce risparmi né miglioramenti.
+- **Esercizio associato obbligatorio.** Per i Comuni fino a 5.000 abitanti (3.000 se montani) la legge ha previsto l'esercizio associato delle funzioni fondamentali (art. 14, c. 28, D.L. 78/2010), con continue proroghe. La Corte costituzionale (sent. 33/2019) non ha cancellato l'obbligo: lo ha dichiarato illegittimo solo nella parte in cui non permette al Comune di dimostrare che, per le sue caratteristiche geografiche e demografiche, l'associazione non produce economie di scala né miglioramenti di efficacia ed efficienza. Ha poi colpito anche la definizione degli ambiti ottimali senza concertazione con i Comuni.
 - **Province e Città metropolitane.** Le loro funzioni fondamentali sono fissate dalla L. 56/2014 ("legge Delrio", art. 1, cc. 44 e 85).
 
 Verifica sul libro se l'autrice usa ancora l'elenco provvisorio dell'art. 21 L. 42/2009 o quello del D.L. 78/2010.
@@ -92,7 +92,7 @@ I LEP sono le prestazioni che devono essere garantite in modo uniforme su tutto 
 L'istruzione è un diritto (artt. 33-34 Cost.) e lo Stato deve assicurarne un livello uniforme, anche se le competenze sono divise tra Stato, Regioni ed enti locali.
 
 - **Riparto delle competenze.** Le "norme generali sull'istruzione" sono di competenza esclusiva statale (art. 117, c. 2, lett. n), l'"istruzione" è materia concorrente, l'istruzione e formazione professionale è regionale.
-- **Esempi di LEP.** Il d.lgs. 226/2005 fissa norme generali e livelli essenziali per il secondo ciclo (compresa l'istruzione e formazione professionale regionale). Per i servizi educativi 0-3 anni la legge di bilancio 2022 (L. 234/2021) ha fissato come livello minimo una copertura dei posti nido pari al 33% dei bambini, da raggiungere entro il 2027.
+- **Esempi di LEP.** Il d.lgs. 226/2005 fissa norme generali e livelli essenziali per il secondo ciclo (compresa l'istruzione e formazione professionale regionale). Per i servizi educativi 0-3 anni la legge di bilancio 2022 (L. 234/2021) ha fissato come LEP una copertura dei posti nido pari al 33% dei bambini tra 3 e 36 mesi, da raggiungere entro il 2027 (art. 1, c. 172). Secondo l'ISTAT la copertura nazionale è ancora sotto quella soglia.
 - **Il ruolo degli enti locali.** I Comuni hanno come funzione fondamentale l'edilizia scolastica e i servizi scolastici (mensa, trasporto).
 
 Verifica sul libro quali LEP scolastici tratta l'autrice: il contenuto di questo paragrafo è ricostruito da fonti esterne.
@@ -104,18 +104,18 @@ I livelli essenziali di assistenza sono le prestazioni sanitarie che il Servizio
 - **Fondamento.** Art. 32 Cost. (diritto alla salute); d.lgs. 502/1992, art. 1.
 - **Le fonti.** Primo elenco con il DPCM 29 novembre 2001; quello vigente è il **DPCM 12 gennaio 2017**.
 - **Tre macro-livelli.** Prevenzione collettiva e sanità pubblica; assistenza distrettuale (medico di famiglia, farmaceutica, specialistica, ecc.); assistenza ospedaliera.
-- **Il controllo.** Il rispetto dei LEA da parte delle Regioni è monitorato con il Nuovo Sistema di Garanzia (DM 12 marzo 2019); le Regioni inadempienti con disavanzi vanno in piano di rientro e, nei casi gravi, sono commissariate (art. 120 Cost.).
+- **Il controllo.** Il rispetto dei LEA da parte delle Regioni è monitorato con il Nuovo Sistema di Garanzia (DM 12 marzo 2019, operativo dal 2020: 88 indicatori, di cui 22 "CORE" usati per la valutazione annuale); le Regioni inadempienti con disavanzi vanno in piano di rientro e, nei casi gravi, sono commissariate (art. 120 Cost.).
 
 ### 6.3 I livelli essenziali delle prestazioni concernenti i diritti sociali (LEPS – LEPAS)
 
 Per i servizi sociali i livelli essenziali sono stati definiti molto più tardi che per la sanità, e in modo graduale.
 
 - **L. 328/2000 (legge quadro sul sistema integrato di interventi e servizi sociali).** All'art. 22 indica gli interventi che costituiscono il livello essenziale delle prestazioni sociali erogabili; la definizione concreta è rimasta a lungo incompleta.
-- **L. 234/2021 (legge di bilancio 2022, art. 1, cc. 159 ss.).** Definisce i **LEPS** come interventi, servizi, attività e prestazioni integrate che la Repubblica assicura per garantire qualità della vita, pari opportunità e non discriminazione; affida l'attuazione agli **ambiti territoriali sociali** (ATS).
+- **L. 234/2021 (legge di bilancio 2022, art. 1, cc. 159-171).** Definisce i **LEPS** come interventi, servizi, attività e prestazioni integrate che la Repubblica assicura per garantire qualità della vita, pari opportunità e non discriminazione; affida l'attuazione agli **ambiti territoriali sociali** (ATS) dell'art. 8, c. 3, lett. a), L. 328/2000.
 - **Un esempio di LEPS.** Un assistente sociale ogni 5.000 abitanti in ogni ambito territoriale, con un obiettivo ulteriore di 1 ogni 4.000 (L. 178/2020, art. 1, c. 797), finanziato con un contributo statale per le assunzioni.
 - **Il Piano nazionale degli interventi e dei servizi sociali** individua i LEPS (es. pronto intervento sociale, supervisione degli operatori, dimissioni protette).
 
-Verifica sul libro che cosa intende l'autrice con la sigla **LEPAS** e la distinzione rispetto ai LEPS: non è stata trovata nelle fonti consultate.
+Verifica sul libro che cosa intende l'autrice con la sigla **LEPAS**. Nelle fonti ufficiali consultate (Camera, UPB, Ministero del Lavoro) la sigla non compare: si usa solo LEPS. È probabile che stia per "livelli essenziali delle prestazioni di assistenza sociale", l'espressione della L. 178/2020, c. 797, ma è un'ipotesi da confermare.
 
 ## 7. I servizi pubblici nel quadro dell'Unione Europea
 
@@ -166,8 +166,8 @@ L'ente locale sceglie come gestire il servizio, ma deve motivare la scelta.
 | Gestione in economia o azienda speciale | Gestione diretta o con ente strumentale (art. 114 TUEL) | Solo per i servizi diversi da quelli a rete |
 
 - **La motivazione.** L'ente sceglie con una relazione che valuta le caratteristiche tecniche ed economiche del servizio, la convenienza economica e gli obiettivi di universalità, socialità, efficienza, qualità e sicurezza (art. 14, cc. 2-3).
-- **L'in house "rafforzato".** Per gli affidamenti in house sopra le soglie europee serve una deliberazione con motivazione qualificata sulle ragioni del mancato ricorso al mercato (art. 17).
-- **La verifica periodica.** Gli enti verificano ogni anno la situazione gestionale dei servizi (art. 30).
+- **L'in house "rafforzato".** Per gli affidamenti in house sopra le soglie europee serve una deliberazione con motivazione qualificata sulle ragioni del mancato ricorso al mercato e sui benefici per la collettività (art. 17, c. 2); il contratto si può stipulare solo dopo 60 giorni dalla pubblicazione della delibera sul sito dell'ANAC (art. 17, c. 3).
+- **La verifica periodica.** I Comuni con più di 5.000 abitanti, le Città metropolitane e gli altri enti competenti fanno ogni anno una ricognizione della situazione gestionale dei servizi, compreso il ricorso all'in house (art. 30).
 
 ## 11. La gestione in economia
 
@@ -199,7 +199,7 @@ Le società a partecipazione pubblica sono uno strumento molto diffuso per gesti
 - **Società in house (art. 16).** Controllo analogo dell'ente; oltre l'80% del fatturato deve derivare da compiti affidati dagli enti soci.
 - **Società miste (art. 17).** Il socio privato ha una quota non inferiore al 30% ed è scelto con gara a doppio oggetto.
 - **Razionalizzazione.** Ogni anno le amministrazioni analizzano le proprie partecipazioni e devono dismettere quelle non necessarie o in perdita strutturale (art. 20; revisione straordinaria art. 24).
-- **Responsabilità.** Per il danno al patrimonio di una società in house la giurisdizione è della Corte dei conti (Cass. SU 26283/2013), perché la società è assimilata a un'articolazione dell'ente (collegamento con il cap. 19 del Mattarella).
+- **Responsabilità.** Per il danno al patrimonio di una società in house la giurisdizione è della Corte dei conti (Cass. SU 25 novembre 2013, n. 26283), ma solo se la società ha davvero i requisiti dell'in house; per le altre partecipate restano le azioni civili del diritto societario. La ragione è che la società in house è assimilata a un'articolazione dell'ente (collegamento con il cap. 19 del Mattarella).
 
 > **Nel mondo reale.** Molti Comuni affidano la raccolta dei rifiuti o il trasporto urbano a una società interamente pubblica partecipata da più Comuni della stessa area, con controllo analogo esercitato congiuntamente: è un affidamento in house, senza gara, che oggi va giustificato con la relazione e la motivazione qualificata del d.lgs. 201/2022.
 
@@ -282,7 +282,7 @@ L'ente resta responsabile del servizio verso i cittadini: per questo regola il g
 4. Come tratta i servizi pubblici il diritto UE (SIEG, art. 106 TFUE, Altmark, in house)?
 5. Quali sono le modalità di gestione dei servizi pubblici locali? Quando è ammessa la gestione in house e che cosa deve motivare l'ente? E nei servizi sociali, che cosa cambia con la co-progettazione?
 
-- [ ] Leggere le pp. 161-230 sul libro, controllare titoli e pagine dei paragrafi e confrontarli con questo schema
+- [ ] Leggere le pp. 161-234 sul libro, controllare titoli e pagine dei paragrafi e confrontarli con questo schema
 - [ ] Chiarire il significato di "LEPAS" (§ 6.3)
 - [ ] Integrare con il cap. VII del Cavallo Perin – Galetta
 
@@ -304,3 +304,11 @@ L'ente resta responsabile del servizio verso i cittadini: per questo regola il g
 - [Ufficio parlamentare di bilancio, focus sui LEPS e gli assistenti sociali](https://www.upbilancio.it/wp-content/uploads/2023/12/Focus-n.-5-assist_sociali.pdf)
 - [Ministero del Lavoro, LEPS](https://lavoro.gov.it/strumenti-e-servizi/LEPS-Supervisione/Pagine/default)
 - [OpenCivitas, fabbisogni standard dei Comuni](https://www.opencivitas.it)
+- [Corte costituzionale, sent. 33/2019 (esercizio associato obbligatorio)](https://www.cortecostituzionale.it/scheda-pronuncia/2019/33)
+- [Corte costituzionale, sent. 282/2002 (LEP come competenza trasversale)](https://www.cortecostituzionale.it/scheda-pronuncia/2002/282)
+- [Cass. SU 26283/2013 (società in house e Corte dei conti)](https://www.unife.it/economia/lm.economia/insegnamenti/diritto-dei-contratti-e-dei-servizi-pubblici/materiale-didattico/Cassazione%20Sez.%20Un.%2026283-2013.pdf)
+- [ANAC, schema di motivazione qualificata per l'in house (art. 17 d.lgs. 201/2022)](https://www.anticorruzione.it/documents/91439/7d106c76-5338-0950-5bdc-d064711ff1e7)
+- [Camera dei deputati, ambiti territoriali sociali e LEPS](https://temi.camera.it/leg19/post/ambiti-territoriali-sociali-e-piani-di-zona.html)
+- [Ministero del Lavoro, assunzioni di assistenti sociali (L. 178/2020, c. 797)](https://www.lavoro.gov.it/temi-e-priorita/poverta-ed-esclusione-sociale/focus/pagine/assunzioni-assistenti-sociali)
+- [ISTAT, offerta di nidi e servizi per la prima infanzia](https://www.istat.it/comunicato-stampa/offerta-di-nidi-e-servizi-integrativi-per-la-prima-infanzia-anno-educativo-2023-2024/)
+- [DM 12 marzo 2019, Nuovo Sistema di Garanzia (testo)](https://www.sipotra.it/wp-content/uploads/2019/06/DECRETO-12-marzo-2019.pdf)
