@@ -84,7 +84,9 @@ e dei cap. VII, I e V del Cavallo Perin - Galetta (`parte-avanzata/cap-VII-servi
 in anticipo (13/11/2026) rispetto al calendario.
 Il testo della 1ª edizione dei cap. I e V è online (link negli schemi): gli schemi sono stati verificati lì
 (`verifiche/digitale-cap-I-V-factcheck-2026-11-13.md`); i punti controllati sono segnati "(dal testo, 1ª ed.)".
-I cap. VII e la parte del Nicodemo non sono ancora passati dalla verifica dei fatti.
+Il testo del cap. VII nella 2ª ed. è online (sito di R. Cavallo Perin, link nello schema): lo schema è stato
+riscritto e verificato lì. La parte del Nicodemo è verificata solo su fonti esterne (online c'è solo l'indice);
+resta da chiarire la sigla "LEPAS". Resoconto: `verifiche/servizi-pubblici-cap-VII-factcheck-2026-11-13.md`.
 
 **Prossimo**: patto di stabilità (priorità bassa; partire dal PSI, pp. 139-150), oppure quiz di ripasso.
 
