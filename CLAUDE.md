@@ -46,7 +46,7 @@ Indice completo del libro: Parte I Nozioni generali (cap. 1-4), Parte II La pubb
 **Testi confermati dalla professoressa** (risposta alla mail, firmata "SN"). Indice del Nicodemo trascritto
 in `risorse/indice-nicodemo-2024.md`: il libro ha cinque parti senza numero di capitolo; la "seconda parte"
 sui servizi pubblici è "La gestione dei servizi pubblici: i livelli di governo e la partecipazione dei
-cittadini" (§§ 1-18, pp. 161-230). Il patto di stabilità compare come PSC (pp. 31-36, 58-65) e come patto
+cittadini" (§§ 1-18, pp. 161-234). Il patto di stabilità compare come PSC (pp. 31-36, 58-65) e come patto
 di stabilità interno (pp. 139-150). Indice del Cavallo Perin - Galetta 2025 trascritto per intero (cap. I-XVIII)
 in `risorse/indice-cavallo-perin-galetta-2025.md`: cap. I Simoncini, "Amministrazione digitale algoritmica.
 Il quadro costituzionale" (pp. 1-36); cap. V Cavallo Perin e Alberti, "Atti e procedimenti amministrativi

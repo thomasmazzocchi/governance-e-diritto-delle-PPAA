@@ -1,6 +1,6 @@
 # Nicodemo – La gestione dei servizi pubblici: i livelli di governo e la partecipazione dei cittadini
 
-Schema della parte sui servizi pubblici di S. Nicodemo, *Appunti su finanza pubblica e Costituzione*, Cacucci, 2024, pp. 161-230 ([indice](../risorse/indice-nicodemo-2024.md)). Il testo del libro non è disponibile online: **i titoli dei paragrafi vengono dall'indice della tua copia, il contenuto da fonti esterne** (Costituzione, leggi vigenti, Corte costituzionale, Corte di giustizia UE) e va confrontato con il libro. Gli esempi nei riquadri "Nel mondo reale" non vengono dal libro. Da studiare insieme al cap. VII del Cavallo Perin – Galetta (servizi pubblici e digitale), e collegato al Mattarella: cap. 1 (servizi pubblici economici tra le funzioni; art. 118 Cost.).
+Schema della parte sui servizi pubblici di S. Nicodemo, *Appunti su finanza pubblica e Costituzione*, Cacucci, 2024, pp. 161-234 ([indice](../risorse/indice-nicodemo-2024.md)). Il testo del libro non è disponibile online: **i titoli dei paragrafi vengono dall'indice della tua copia, il contenuto da fonti esterne** (Costituzione, leggi vigenti, Corte costituzionale, Corte di giustizia UE) e va confrontato con il libro. Gli esempi nei riquadri "Nel mondo reale" non vengono dal libro. Da studiare insieme al cap. VII del Cavallo Perin – Galetta (servizi pubblici e digitale), e collegato al Mattarella: cap. 1 (servizi pubblici economici tra le funzioni; art. 118 Cost.).
 
 **Il filo della parte.** Chi decide quali servizi garantire (livelli di governo e sussidiarietà) → quanto devono costare e quale livello minimo va assicurato ovunque (fabbisogni standard, LEP) → che cosa dice l'UE → come si gestiscono in concreto i servizi pubblici locali e i servizi sociali → come l'ente controlla il gestore e come partecipano i cittadini.
 
@@ -282,7 +282,7 @@ L'ente resta responsabile del servizio verso i cittadini: per questo regola il g
 4. Come tratta i servizi pubblici il diritto UE (SIEG, art. 106 TFUE, Altmark, in house)?
 5. Quali sono le modalità di gestione dei servizi pubblici locali? Quando è ammessa la gestione in house e che cosa deve motivare l'ente? E nei servizi sociali, che cosa cambia con la co-progettazione?
 
-- [ ] Leggere le pp. 161-230 sul libro, controllare titoli e pagine dei paragrafi e confrontarli con questo schema
+- [ ] Leggere le pp. 161-234 sul libro, controllare titoli e pagine dei paragrafi e confrontarli con questo schema
 - [ ] Chiarire il significato di "LEPAS" (§ 6.3)
 - [ ] Integrare con il cap. VII del Cavallo Perin – Galetta
 

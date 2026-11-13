@@ -29,7 +29,7 @@ Facoltativi: 7.5 amministrazione digitale (95-98), 6.7 amministrazioni ultrastat
 
 | Materiale | Cosa | Priorità | Schema |
 |---|---|---|---|
-| Nicodemo, *Appunti su finanza pubblica e Costituzione*, Cacucci 2024 | "La gestione dei servizi pubblici" (pp. 161-230) | Alta | [servizi pubblici](parte-avanzata/servizi-pubblici.md) ✅ (da confrontare con il libro) |
+| Nicodemo, *Appunti su finanza pubblica e Costituzione*, Cacucci 2024 | "La gestione dei servizi pubblici" (pp. 161-234) | Alta | [servizi pubblici](parte-avanzata/servizi-pubblici.md) ✅ (da confrontare con il libro) |
 | Cavallo Perin – Galetta, *Il diritto dell'amministrazione pubblica digitale*, Giappichelli 2025 | Cap. VII "I servizi pubblici con IA" (pp. 189-230) | Alta | [cap. VII](parte-avanzata/cap-VII-servizi-pubblici-ia.md) ✅ (da confrontare con il libro) |
 | Cavallo Perin – Galetta (stesso libro) | Cap. I "Amministrazione digitale algoritmica" (pp. 1-36) e cap. V "Atti e procedimenti amministrativi digitali" (pp. 137-176) | Alta | [cap. I](parte-avanzata/cap-I-amministrazione-algoritmica.md) · [cap. V](parte-avanzata/cap-V-atti-procedimenti-digitali.md) ✅ (da confrontare con il libro) |
 | Nicodemo (stesso libro) | Patto di stabilità: PSC (pp. 31-36, 58-65) o PSI (pp. 139-150) | Bassa | [patto](parte-avanzata/patto-di-stabilita.md) |
