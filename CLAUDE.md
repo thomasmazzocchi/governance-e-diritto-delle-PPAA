@@ -47,9 +47,12 @@ Indice completo del libro: Parte I Nozioni generali (cap. 1-4), Parte II La pubb
 in `risorse/indice-nicodemo-2024.md`: il libro ha cinque parti senza numero di capitolo; la "seconda parte"
 sui servizi pubblici è "La gestione dei servizi pubblici: i livelli di governo e la partecipazione dei
 cittadini" (§§ 1-18, pp. 161-230). Il patto di stabilità compare come PSC (pp. 31-36, 58-65) e come patto
-di stabilità interno (pp. 139-150). Manca ancora l'indice del Cavallo Perin - Galetta 2025 (cap. I, V, VII;
-la 1ª ed. del 2020 ha un indice diverso). Gli indici ufficiali (giappichelli.it, cacuccieditore.it) non sono
-raggiungibili da questo ambiente: servono foto dell'indice.
+di stabilità interno (pp. 139-150). Indice del Cavallo Perin - Galetta 2025 trascritto (fino al cap. IX)
+in `risorse/indice-cavallo-perin-galetta-2025.md`: cap. I Simoncini, "Amministrazione digitale algoritmica.
+Il quadro costituzionale" (pp. 1-36); cap. V Cavallo Perin e Alberti, "Atti e procedimenti amministrativi
+digitali" (pp. 137-176); cap. VII Cavallo Perin e Jacod, "I servizi pubblici con intelligenza artificiale"
+(pp. 189-230 circa, due sezioni). I siti degli editori e degli autori non sono raggiungibili da questo
+ambiente: il contenuto degli schemi viene da fonti normative e va confrontato con il libro.
 
 Gli schemi della parte avanzata seguono lo stesso formato, con titolo `# Nicodemo – Titolo della parte` e
 una sezione `## N.` per ogni paragrafo del libro.
@@ -75,9 +78,10 @@ Il cap. 19 include la riforma della responsabilità erariale (L. 1/2026), succes
 Novità successive al libro già integrate: annullamento d'ufficio 6 mesi (L. 182/2025), ricorso
 straordinario al Presidente del Consiglio di Stato (D.L. 19/2026), scudo erariale scaduto il 31/12/2025.
 
-Parte avanzata: schema dei servizi pubblici del Nicodemo fatto (`parte-avanzata/servizi-pubblici.md`).
+Parte avanzata: fatti gli schemi dei servizi pubblici del Nicodemo (`parte-avanzata/servizi-pubblici.md`)
+e del cap. VII del Cavallo Perin - Galetta (`parte-avanzata/cap-VII-servizi-pubblici-ia.md`).
 
-**Prossimo**: cap. VII del Cavallo Perin - Galetta (serve l'indice), poi cap. I e V.
+**Prossimo**: cap. I e V del Cavallo Perin - Galetta (periodo 1-14 dicembre).
 
 Metodo usato negli schemi: un paragrafo per sezione del libro, tabelle per confronti, domande di
 verifica alla fine, fonti affidabili linkate. Il testo del Mattarella online è disponibile solo

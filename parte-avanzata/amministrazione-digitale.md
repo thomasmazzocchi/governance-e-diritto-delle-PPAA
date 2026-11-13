@@ -1,6 +1,11 @@
 # Diritto dell'amministrazione digitale
 
-**Fonte:** R. Cavallo Perin, D.-U. Galetta (a cura di), *Il diritto dell'amministrazione pubblica digitale*, Giappichelli, 2025 (2ª ed.) · cap. VII, I, V · **Priorità:** alta · **Periodo:** cap. VII 10-30 nov (con i servizi pubblici), cap. I e V 1-14 dic
-**Stato:** ⬜ da fare · ✅ testo confermato dalla professoressa · ❓ titoli e pagine dei capitoli da verificare sulla copia (la 1ª ed. del 2020 ha un indice diverso)
+**Fonte:** R. Cavallo Perin, D.-U. Galetta (a cura di), *Il diritto dell'amministrazione pubblica digitale*, Giappichelli, 2025 (2ª ed.) · [indice](../risorse/indice-cavallo-perin-galetta-2025.md) · **Priorità:** alta
 
-Dalle ricerche online (da confermare sull'indice): il cap. IV è "Automazione, Intelligenza Artificiale e pubblica amministrazione, fra diritto interno e diritto UE" (Galetta, Hofmann, Ziller); il cap. V riguarda atti e procedimenti amministrativi digitali (Cavallo Perin, Alberti) e si apre con "L'atto amministrativo digitale: dall'informatizzazione all'automazione".
+| Capitolo | Autori | Pagine | Periodo | Schema |
+|---|---|---|---|---|
+| VII – I servizi pubblici con intelligenza artificiale | Cavallo Perin, Jacod (con Perrone) | 189-230 circa | 10-30 nov | [cap. VII](cap-VII-servizi-pubblici-ia.md) ✅ |
+| I – Amministrazione digitale *algoritmica*. Il quadro costituzionale | Simoncini | 1-36 | 1-14 dic | ⬜ da fare |
+| V – Atti e procedimenti amministrativi digitali | Cavallo Perin, Alberti | 137-176 | 1-14 dic | ⬜ da fare |
+
+Utili ma fuori programma: cap. VI (Carullo, "servizi digitali", pp. 177-188), premessa del cap. VII; cap. III (Galetta, procedimento e buona amministrazione), ponte con il cap. 15 del Mattarella.
