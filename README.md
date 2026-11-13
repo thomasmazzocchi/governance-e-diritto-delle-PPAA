@@ -31,7 +31,7 @@ Facoltativi: 7.5 amministrazione digitale (95-98), 6.7 amministrazioni ultrastat
 |---|---|---|---|
 | Nicodemo, *Appunti su finanza pubblica e Costituzione*, Cacucci 2024 | "La gestione dei servizi pubblici" (pp. 161-234) | Alta | [servizi pubblici](parte-avanzata/servizi-pubblici.md) ✅ (da confrontare con il libro) |
 | Cavallo Perin – Galetta, *Il diritto dell'amministrazione pubblica digitale*, Giappichelli 2025 | Cap. VII "I servizi pubblici con IA" (pp. 189-230) | Alta | [cap. VII](parte-avanzata/cap-VII-servizi-pubblici-ia.md) ✅ (da confrontare con il libro) |
-| Cavallo Perin – Galetta (stesso libro) | Cap. I "Amministrazione digitale algoritmica" (pp. 1-36) e cap. V "Atti e procedimenti amministrativi digitali" (pp. 137-176) | Alta | [cap. I](parte-avanzata/cap-I-amministrazione-algoritmica.md) · [cap. V](parte-avanzata/cap-V-atti-procedimenti-digitali.md) ✅ (da confrontare con il libro) |
+| Cavallo Perin – Galetta (stesso libro) | Cap. I "Amministrazione digitale algoritmica" (pp. 1-36) e cap. V "Atti e procedimenti amministrativi digitali" (pp. 137-176) | Alta | [cap. I](parte-avanzata/cap-I-amministrazione-algoritmica.md) · [cap. V](parte-avanzata/cap-V-atti-procedimenti-digitali.md) ✅ (verificati sul testo della 1ª ed.) |
 | Nicodemo (stesso libro) | Patto di stabilità: PSC (pp. 31-36, 58-65) o PSI (pp. 139-150) | Bassa | [patto](parte-avanzata/patto-di-stabilita.md) |
 
 ✅ Testi confermati dalla professoressa. [Indice del Nicodemo](risorse/indice-nicodemo-2024.md) trascritto. [Indice del Cavallo Perin – Galetta](risorse/indice-cavallo-perin-galetta-2025.md) trascritto per intero (cap. I-XVIII).
@@ -46,4 +46,4 @@ Facoltativi: 7.5 amministrazione digitale (95-98), 6.7 amministrazioni ultrastat
 | 15 dic - 6 gen | Ripasso: schemi, quiz, ripasso a voce |
 
 ## Altro
-[Verifica dei fatti, 8/11/2026](verifiche/parte-base-factcheck-2026-11-08.md) · [Indice Mattarella 1ª ed.](risorse/indice-mattarella-1a-ed.md) · [Indice Nicodemo](risorse/indice-nicodemo-2024.md) · [Indice Cavallo Perin – Galetta](risorse/indice-cavallo-perin-galetta-2025.md) · [Glossario](glossario.md) · [Link utili](risorse/link-utili.md) · [Giurisprudenza](giurisprudenza/) · [Modelli](templates/)
+[Verifica dei fatti, 8/11/2026](verifiche/parte-base-factcheck-2026-11-08.md) · [Verifica cap. I e V digitale, 13/11/2026](verifiche/digitale-cap-I-V-factcheck-2026-11-13.md) · [Indice Mattarella 1ª ed.](risorse/indice-mattarella-1a-ed.md) · [Indice Nicodemo](risorse/indice-nicodemo-2024.md) · [Indice Cavallo Perin – Galetta](risorse/indice-cavallo-perin-galetta-2025.md) · [Glossario](glossario.md) · [Link utili](risorse/link-utili.md) · [Giurisprudenza](giurisprudenza/) · [Modelli](templates/)

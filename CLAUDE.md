@@ -82,6 +82,9 @@ Parte avanzata: fatti gli schemi dei servizi pubblici del Nicodemo (`parte-avanz
 e dei cap. VII, I e V del Cavallo Perin - Galetta (`parte-avanzata/cap-VII-servizi-pubblici-ia.md`,
 `cap-I-amministrazione-algoritmica.md`, `cap-V-atti-procedimenti-digitali.md`). I cap. I e V sono stati fatti
 in anticipo (13/11/2026) rispetto al calendario.
+Il testo della 1ª edizione dei cap. I e V è online (link negli schemi): gli schemi sono stati verificati lì
+(`verifiche/digitale-cap-I-V-factcheck-2026-11-13.md`); i punti controllati sono segnati "(dal testo, 1ª ed.)".
+I cap. VII e la parte del Nicodemo non sono ancora passati dalla verifica dei fatti.
 
 **Prossimo**: patto di stabilità (priorità bassa; partire dal PSI, pp. 139-150), oppure quiz di ripasso.
 
